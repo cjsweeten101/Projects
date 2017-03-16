@@ -1,0 +1,2585 @@
+,Department,Difficulty,Hot,Number_Ratings,Score,Tag,Take_Again,pk_id
+0,Biology,3.8,0,174,3.5,Tough Grader,63%,261261
+1,Business,3.8,1,169,4.2,Get ready to read,77%,335313
+2,Biology,3.8,0,150,3.8,Tough Grader,65%,566286
+3,Biology,3.8,1,134,4.3,Skip class You wont pass,100%,261621
+4,Music,2.4,0,92,3.8,Hilarious,N/A,261242
+5,Chemistry,3.9,1,91,4.3,Caring,N/A,261467
+6,Accounting,3.7,0,86,3.4,Skip class You wont pass,71%,470792
+7,Biology,4.3,0,85,4.5,Skip class You wont pass,90%,673272
+8,Mathematics,3.1,1,78,4.2,Skip class You wont pass,67%,221339
+9,Accounting,3.7,0,75,3.9,Respected,89%,651891
+10,Political,3.9,0,71,2.8,Tough Grader,N/A,263423
+11,Sociology,2.5,1,64,4.7,Inspirational,93%,262511
+12,Chemistry,4.4,0,63,1.5,,N/A,1107537
+13,Computer,4.0,0,61,3.7,LOTS OF HOMEWORK,N/A,836076
+14,Management,3.4,0,60,3.5,Skip class You wont pass,N/A,651894
+15,Biology,3.1,0,60,4.3,Amazing lectures,83%,1564363
+16,Philosophy,3.2,0,58,3.4,Participation matters,N/A,355495
+17,Engineering,3.1,0,55,2.3,LOTS OF HOMEWORK,N/A,595209
+18,Accounting,2.8,0,55,4.1,GROUP PROJECTS,57%,1372569
+19,Business,2.6,1,52,4.9,Gives good feedback,N/A,667824
+20,Mathematics,2.9,0,51,3.5,Caring,N/A,241846
+21,Management,3.5,1,49,4.8,Amazing lectures,100%,1708501
+22,Physics,2.8,0,48,4.0,Caring,100%,463906
+23,Economics,2.8,1,48,4.9,Respected,N/A,1858225
+24,Writing,2.9,0,48,4.0,GROUP PROJECTS,N/A,999227
+25,Chemistry,3.4,1,47,4.7,Gives good feedback,90%,1307411
+26,Chemistry,3.3,0,47,3.9,Participation matters,71%,1769053
+27,Mathematics,2.9,0,46,3.1,Clear grading criteria,N/A,258865
+28,Philosophy,3.2,0,45,3.1,,N/A,135258
+29,English,3.0,1,45,4.8,Amazing lectures,N/A,1014718
+30,Chemistry,4.1,0,45,1.9,Tough Grader,N/A,1506364
+31,Business,2.4,1,45,4.3,Skip class You wont pass,94%,1668772
+32,Sociology,2.3,0,45,4.0,Tough Grader,N/A,337754
+33,History,3.3,0,44,3.5,LECTURE HEAVY,N/A,251394
+34,Sociology,2.0,0,44,3.6,Inspirational,N/A,261244
+35,Computer,3.4,0,44,4.1,LOTS OF HOMEWORK,N/A,261463
+36,Finance,3.3,1,44,4.3,Inspirational,60%,551314
+37,Sociology,3.4,0,43,3.4,Get ready to read,N/A,261068
+38,Anthropology,4.4,0,41,2.8,Tough Grader,N/A,251402
+39,Chemistry,3.2,0,41,3.2,Hilarious,29%,522657
+40,English,2.5,1,39,4.8,Caring,N/A,190955
+41,Chemistry,2.5,0,38,3.2,,N/A,268145
+42,History,2.4,0,38,3.9,Amazing lectures,86%,682449
+43,Mathematics,4.1,0,38,2.5,Participation matters,N/A,1130473
+44,Political,4.0,0,38,3.0,Get ready to read,40%,890925
+45,Chemistry,3.1,1,37,4.7,Respected,N/A,1739091
+46,Political,3.1,0,35,3.7,Inspirational,N/A,257362
+47,Computer,3.6,0,34,4.0,LOTS OF HOMEWORK,100%,710755
+48,Physics,4.6,0,34,2.4,Tough Grader,N/A,780624
+49,Biology,3.7,0,34,3.4,Tough Grader,36%,261172
+50,Physics,1.7,1,33,4.5,Respected,N/A,255773
+51,Mathematics,3.0,0,33,2.6,LOTS OF HOMEWORK,N/A,261313
+52,Finance,3.5,1,32,3.5,Tough Grader,N/A,221334
+53,Finance,3.2,0,32,2.5,LECTURE HEAVY,11%,247117
+54,Physics,4.2,0,32,2.3,Skip class You wont pass,N/A,1027004
+55,Mathematics,2.1,1,32,4.8,Caring,100%,1800203
+56,Business,1.9,1,32,4.8,Hilarious,100%,2015028
+57,Mathematics,3.9,0,31,2.5,Get ready to read,N/A,157093
+58,Economics,2.1,1,31,4.7,Participation matters,N/A,221333
+59,Chemistry,3.6,0,31,2.6,LECTURE HEAVY,N/A,752147
+60,Psychology,2.7,0,31,3.3,LOTS OF HOMEWORK,N/A,1073215
+61,Psychology,1.7,0,31,3.9,Get ready to read,N/A,1665135
+62,English,4.2,0,30,2.7,Get ready to read,N/A,134015
+63,Political,3.2,0,30,4.3,Get ready to read,N/A,163606
+64,Anthropology,3.8,0,30,2.3,Get ready to read,N/A,269812
+65,Humanities,1.3,0,30,4.5,LECTURE HEAVY,83%,274693
+66,Chemistry,4.6,1,30,2.5,Get ready to read,N/A,549490
+67,Biology,4.5,0,30,2.3,Tough Grader,N/A,631542
+68,English,4.6,0,30,2.9,Tough Grader,N/A,829667
+69,Music,1.6,0,30,4.5,EXTRA CREDIT,N/A,1349134
+70,Business,2.7,0,30,3.0,LECTURE HEAVY,N/A,1675887
+71,Chemistry,4.0,0,30,2.0,Skip class You wont pass,N/A,1802808
+72,Film,2.9,1,29,4.4,Gives good feedback,N/A,425647
+73,English,2.7,0,29,4.2,Gives good feedback,N/A,1058310
+74,Finance,3.6,0,29,3.3,Skip class You wont pass,N/A,1167362
+75,Communication,2.5,0,28,4.3,Participation matters,N/A,132328
+76,Humanities,2.9,0,28,4.0,Gives good feedback,N/A,238966
+77,Physical,1.1,1,28,4.4,,N/A,1467260
+78,Humanities,1.9,0,27,3.1,Gives good feedback,N/A,395668
+79,Finance,2.9,0,27,3.0,LOTS OF HOMEWORK,N/A,536014
+80,Marketing,3.1,0,27,3.5,GROUP PROJECTS,N/A,651895
+81,Psychology,2.2,0,27,4.4,LOTS OF HOMEWORK,86%,1273685
+82,Health,1.8,0,27,4.4,Amazing lectures,N/A,1441960
+83,Mathematics,1.8,0,27,4.8,Gives good feedback,N/A,1735553
+84,Psychology,2.5,0,26,2.8,,N/A,238961
+85,Economics,3.0,1,26,4.8,Participation matters,100%,1857207
+86,Biology,3.8,0,26,3.3,Skip class You wont pass,N/A,808397
+87,History,3.7,0,25,4.0,Respected,N/A,257495
+88,Sociology,2.4,1,25,4.3,Amazing lectures,N/A,261075
+89,Mathematics,3.1,0,25,3.0,,N/A,261860
+90,Marketing,2.6,1,25,3.9,,N/A,633682
+91,Physics,3.6,0,25,3.3,Tough Grader,N/A,636903
+92,Physics,2.4,0,25,3.8,Hilarious,N/A,671474
+93,Languages,2.8,1,25,4.5,LOTS OF HOMEWORK,N/A,837553
+94,Mathematics,1.7,1,25,5.0,Gives good feedback,N/A,1133702
+95,Sociology,1.8,1,25,4.8,Hilarious,100%,1674899
+96,Mathematics,3.6,0,25,2.9,LOTS OF HOMEWORK,40%,1684030
+97,Mathematics,2.8,0,25,3.8,Respected,N/A,618895
+98,Mathematics,2.0,1,24,4.8,Caring,N/A,392424
+99,Health,2.4,1,24,4.3,Tough Grader,N/A,722118
+100,Management,3.0,0,24,2.9,Get ready to read,N/A,782821
+101,Mathematics,3.3,0,24,3.3,Tough Grader,N/A,882306
+102,Political,3.5,0,24,3.0,Tough Grader,N/A,1232881
+103,Philosophy,3.1,1,24,4.2,Participation matters,100%,1495592
+104,Chemistry,4.0,1,24,3.3,Skip class You wont pass,56%,1862472
+105,Linguistics,4.0,0,24,2.2,GROUP PROJECTS,N/A,1351303
+106,Biology,2.9,1,23,4.6,,N/A,261256
+107,English,2.5,0,23,4.8,Gives good feedback,N/A,262072
+108,Philosophy,3.1,0,23,4.0,Skip class You wont pass,80%,392406
+109,Computer,4.3,0,23,2.1,Tough Grader,N/A,710718
+110,Chemistry,3.9,1,23,4.2,Tough Grader,N/A,836781
+111,Communication,2.3,0,23,4.8,Gives good feedback,N/A,934377
+112,Business,2.9,0,23,4.1,Respected,60%,1127945
+113,Fine,4.1,0,22,2.9,,N/A,93487
+114,Social,3.3,1,22,4.8,Inspirational,N/A,261073
+115,Business,3.4,0,22,4.4,,N/A,263259
+116,English,2.3,1,22,4.6,Inspirational,N/A,297753
+117,Physics,4.0,0,22,3.2,LOTS OF HOMEWORK,N/A,381407
+118,Literature,1.8,1,22,4.8,LECTURE HEAVY,N/A,407360
+119,Music,1.1,0,22,4.4,,N/A,408695
+120,Economics,2.2,1,22,4.4,Hilarious,N/A,1603797
+121,Political,2.3,1,22,5.0,Amazing lectures,N/A,1991949
+122,Languages,2.3,0,21,4.6,Participation matters,N/A,93489
+123,Writing,3.1,0,21,3.1,Participation matters,N/A,262078
+124,Communication,2.8,0,21,3.3,Get ready to read,N/A,450303
+125,Languages,1.6,0,21,4.8,Skip class You wont pass,N/A,676140
+126,Ethnic,3.0,0,21,3.4,Get ready to read,N/A,1027006
+127,Mathematics,3.7,0,21,3.3,Hilarious,N/A,1076637
+128,Psychology,2.1,1,21,4.8,EXTRA CREDIT,100%,1623245
+129,History,2.9,0,21,3.4,,N/A,1640138
+130,Biology,2.7,0,21,4.7,Skip class You wont pass,N/A,1789867
+131,Mathematics,2.9,0,20,4.1,,N/A,578803
+132,Engineering,3.2,1,20,2.9,LOTS OF HOMEWORK,N/A,595211
+133,Family,3.7,0,20,3.1,,N/A,647824
+134,Writing,3.4,0,20,3.3,Tough Grader,N/A,647831
+135,Political,3.0,0,20,2.7,Hilarious,N/A,833008
+136,English,2.8,0,20,4.3,Get ready to read,N/A,835499
+137,Mathematics,3.1,0,20,3.2,,N/A,868519
+138,Accounting,2.5,1,20,4.7,Respected,N/A,1668990
+139,Writing,2.4,0,19,4.3,Tough Grader,88%,262026
+140,Communication,2.7,0,19,2.7,,N/A,269519
+141,Sociology,3.0,0,19,3.3,Get ready to read,N/A,402461
+142,Mathematics,4.7,0,19,1.4,,N/A,452658
+143,Anthropology,2.2,1,19,3.9,Tough Grader,N/A,581156
+144,Ethnic,3.8,1,19,4.8,,N/A,692695
+145,Music,3.7,0,19,3.7,Participation matters,N/A,709548
+146,Computer,2.3,0,19,4.2,,N/A,981223
+147,Writing,3.8,0,19,3.8,Skip class You wont pass,N/A,1114827
+148,Humanities,2.7,1,19,4.3,Tough Grader,N/A,1502293
+149,Philosophy,3.9,0,19,2.3,Tough Grader,N/A,1868020
+150,Psychology,2.9,0,18,3.6,Tough Grader,N/A,261240
+151,English,3.7,0,18,3.4,Get ready to read,N/A,495784
+152,Engineering,4.1,0,18,2.3,,N/A,753574
+153,History,3.1,0,18,3.5,Clear grading criteria,N/A,930511
+154,Linguistics,3.7,0,18,2.9,LECTURE HEAVY,N/A,934587
+155,Art,3.4,0,18,2.8,Hilarious,N/A,945188
+156,Geography,4.3,0,18,1.5,Clear grading criteria,N/A,961105
+157,English,3.0,0,18,4.4,Get ready to read,N/A,1225106
+158,Art,2.2,1,18,3.5,Get ready to read,N/A,1236253
+159,Mathematics,3.3,0,18,2.6,Skip class You wont pass,25%,1467261
+160,Economics,3.3,1,18,3.7,Respected,N/A,1670172
+161,Economics,1.8,0,18,4.0,LOTS OF HOMEWORK,N/A,1733238
+162,History,4.1,0,18,3.2,Get ready to read,N/A,759228
+163,Mathematics,2.4,0,18,4.3,Skip class You wont pass,N/A,865492
+164,Sociology,2.9,0,18,3.9,Hilarious,N/A,1818736
+165,Physics,3.8,0,17,2.7,,N/A,16773
+166,Chemistry,3.5,0,17,3.5,LOTS OF HOMEWORK,N/A,262312
+167,Mathematics,1.8,0,17,4.5,Hilarious,N/A,308310
+168,Chemistry,3.8,0,17,2.7,Tough Grader,N/A,364106
+169,History,3.4,0,17,4.7,Tough Grader,N/A,449519
+170,English,2.8,0,17,3.3,Get ready to read,N/A,534019
+171,Communication,4.1,0,17,4.4,Get ready to read,N/A,685127
+172,Psychology,2.1,1,17,4.6,Get ready to read,N/A,702636
+173,Languages,2.6,1,17,4.7,Participation matters,N/A,759322
+174,Mathematics,2.7,1,17,4.8,Amazing lectures,N/A,1161096
+175,Psychology,1.4,0,17,4.7,EXTRA CREDIT,N/A,1595027
+176,Music,1.8,0,17,3.3,Tough Grader,N/A,1606073
+177,Chemistry,3.3,0,17,3.7,Caring,N/A,1610837
+178,Humanities,1.3,1,17,4.8,Clear grading criteria,N/A,1715919
+179,Mathematics,3.1,1,17,4.7,Hilarious,N/A,1956669
+180,Music,1.9,0,17,4.5,EXTRA CREDIT,100%,2009935
+181,Business,3.4,1,17,5.0,Participation matters,100%,2032461
+182,Chemistry,3.9,0,17,3.3,Tough Grader,N/A,717875
+183,Biology,3.7,0,17,3.3,Tough Grader,63%,1894089
+184,Chemistry,2.8,0,17,3.6,Participation matters,N/A,1143371
+185,Communication,3.4,0,17,3.2,LECTURE HEAVY,N/A,1429443
+186,Biology,3.4,0,16,3.3,Caring,N/A,209595
+187,Music,3.2,0,16,4.5,,N/A,241849
+188,Chemistry,3.4,0,16,2.6,,N/A,364093
+189,Anthropology,1.9,0,16,3.7,LECTURE HEAVY,N/A,464241
+190,Social,3.9,0,16,3.1,,N/A,505230
+191,Anthropology,3.6,0,16,3.0,LECTURE HEAVY,N/A,595288
+192,Family,2.6,0,16,4.3,Tough Grader,N/A,631369
+193,History,3.3,1,16,4.5,Get ready to read,N/A,665350
+194,Humanities,3.3,0,16,3.6,GROUP PROJECTS,N/A,694978
+195,Writing,2.7,0,16,4.0,Gives good feedback,N/A,711339
+196,Political,3.5,0,16,4.6,Get ready to read,N/A,771151
+197,Political,2.9,0,16,3.8,Gives good feedback,N/A,816110
+198,Business,3.3,1,16,4.6,Participation matters,N/A,827672
+199,Political,3.5,0,16,4.3,Amazing lectures,N/A,842218
+200,Management,2.5,0,16,4.2,Get ready to read,N/A,898928
+201,Economics,3.1,1,16,3.8,Participation matters,N/A,1109300
+202,Writing,2.1,1,16,4.7,Hilarious,N/A,1281263
+203,Writing,2.4,1,16,4.8,Gives good feedback,N/A,1354350
+204,Biology,3.3,0,16,3.9,Tough Grader,N/A,1374740
+205,Mathematics,2.4,1,16,4.7,,N/A,1445189
+206,Anthropology,3.5,0,16,3.3,Get ready to read,N/A,1495115
+207,Psychology,1.7,0,16,4.6,Inspirational,N/A,1640214
+208,Statistics,3.4,1,16,4.1,Skip class You wont pass,N/A,1702188
+209,Architecture,1.9,0,15,4.7,GROUP PROJECTS,N/A,193493
+210,Political,3.3,0,15,3.8,,N/A,261241
+211,English,2.1,0,15,4.5,,N/A,262086
+212,Geology,2.3,1,15,4.6,Tough Grader,N/A,262209
+213,Chemistry,3.7,0,15,3.2,,N/A,262310
+214,Political,3.9,1,15,4.3,Hilarious,N/A,298845
+215,Writing,2.8,0,15,4.8,Gives good feedback,N/A,445034
+216,Sociology,3.1,1,15,3.8,,N/A,461080
+217,Health,1.5,1,15,4.8,Amazing lectures,N/A,545091
+218,Chemistry,3.8,0,15,2.7,Get ready to read,N/A,561497
+219,Management,3.6,0,15,2.3,Tough Grader,N/A,754872
+220,Writing,2.9,0,15,3.2,Get ready to read,N/A,758419
+221,Languages,2.7,1,15,4.5,Caring,N/A,764984
+222,Political,2.7,0,15,4.1,,N/A,881652
+223,Linguistics,2.3,0,15,3.2,Participation matters,N/A,913891
+224,Economics,2.1,1,15,4.3,,N/A,982408
+225,Economics,3.4,0,15,4.3,Skip class You wont pass,N/A,1031066
+226,Economics,3.3,1,15,3.8,,N/A,1061909
+227,Psychology,1.5,0,15,4.0,Clear grading criteria,N/A,1180973
+228,Sociology,1.5,0,15,4.8,,N/A,1367335
+229,Business,3.6,0,15,3.9,Get ready to read,N/A,1459487
+230,Health,1.6,1,15,4.6,Participation matters,N/A,1471666
+231,Chemistry,3.1,0,15,4.2,Skip class You wont pass,N/A,1504488
+232,Communication,3.0,0,15,3.1,Tough Grader,N/A,1723262
+233,Computer,3.0,0,15,3.6,Hilarious,60%,2017887
+234,Mathematics,3.7,0,15,2.0,Get ready to read,N/A,748177
+235,Civil,3.5,0,15,2.5,Tough Grader,20%,1892231
+236,English,4.6,1,14,4.5,Get ready to read,N/A,139048
+237,Management,2.9,1,14,4.5,Tough Grader,N/A,220338
+238,Film,2.5,0,14,3.6,Gives good feedback,N/A,250918
+239,Engineering,3.1,0,14,4.5,Amazing lectures,N/A,284705
+240,Anthropology,3.5,0,14,3.1,Tough Grader,N/A,620495
+241,Economics,3.7,0,14,3.2,Tough Grader,N/A,671414
+242,Health,3.5,0,14,3.0,Tough Grader,N/A,733707
+243,Sociology,3.0,1,14,3.4,Tough Grader,N/A,825778
+244,Family,2.4,1,14,4.7,,N/A,838338
+245,Sociology,2.1,1,14,4.6,LOTS OF HOMEWORK,N/A,920214
+246,Linguistics,2.6,0,14,2.7,Participation matters,N/A,974970
+247,Urban,2.6,0,14,4.4,LOTS OF HOMEWORK,N/A,982331
+248,Mechanical,3.7,0,14,2.8,,N/A,1190180
+249,Philosophy,2.6,1,14,4.5,Amazing lectures,N/A,1229175
+250,Biology,3.4,0,14,3.6,Skip class You wont pass,N/A,1276713
+251,Mathematics,3.0,0,14,3.0,,N/A,1614877
+252,Chemistry,4.1,0,14,1.7,Skip class You wont pass,N/A,1642639
+253,Communication,2.7,1,14,4.3,Participation matters,N/A,1688909
+254,Communication,3.4,0,14,4.5,Respected,N/A,1748181
+255,Political,4.3,0,14,2.8,Get ready to read,N/A,1850566
+256,Fine,3.9,0,13,2.4,LOTS OF HOMEWORK,N/A,132291
+257,Sociology,2.2,0,13,4.3,,N/A,241851
+258,History,3.1,0,13,4.0,,N/A,261671
+259,Film,2.1,0,13,4.5,Clear grading criteria,N/A,536013
+260,Theater,1.7,0,13,4.3,LOTS OF HOMEWORK,N/A,592958
+261,Family,2.8,0,13,3.8,Clear grading criteria,67%,615966
+262,Writing,3.2,1,13,4.2,,N/A,671248
+263,Communication,3.6,0,13,2.3,Get ready to read,N/A,705339
+264,English,2.5,1,13,4.1,Skip class You wont pass,N/A,762502
+265,Writing,2.3,0,13,4.9,Gives good feedback,N/A,774368
+266,Mathematics,3.4,0,13,3.7,Clear grading criteria,N/A,789241
+267,English,2.8,0,13,3.5,Tough Grader,N/A,817409
+268,Exercise,2.8,0,13,4.0,Get ready to read,N/A,1058063
+269,Business,2.6,0,13,4.9,,N/A,1059906
+270,Art,3.5,0,13,2.5,Participation matters,N/A,1110940
+271,English,4.0,1,13,4.2,Get ready to read,N/A,1130350
+272,Mathematics,3.9,0,13,2.5,Gives good feedback,N/A,1361908
+273,Architecture,2.9,0,13,2.7,Amazing lectures,N/A,1413974
+274,Geography,2.8,0,13,4.7,Caring,N/A,1434463
+275,Exercise,2.6,0,13,2.5,Tough Grader,N/A,1628550
+276,Chemical,2.5,0,13,3.6,Get ready to read,N/A,1710812
+277,Mathematics,2.9,1,13,4.5,Caring,N/A,1713720
+278,Mathematics,3.6,0,13,1.8,LOTS OF HOMEWORK,N/A,1720091
+279,Finance,3.7,0,13,2.6,Tough Grader,N/A,1725551
+280,Management,2.1,1,13,4.5,Inspirational,N/A,1863208
+281,Business,2.0,0,13,4.4,Caring,N/A,1892424
+282,Computer,3.5,0,13,3.1,LOTS OF HOMEWORK,43%,1901667
+283,Statistics,3.6,1,13,3.6,GROUP PROJECTS,N/A,1922791
+284,Health,2.0,1,13,4.5,Participation matters,N/A,1968957
+285,Communication,4.1,0,13,3.3,Tough Grader,20%,1713099
+286,Economics,3.2,0,13,3.5,Tough Grader,N/A,1798898
+287,Biology,2.6,0,13,4.2,Participation matters,N/A,717876
+288,Economics,2.6,0,12,4.8,,N/A,261973
+289,Economics,3.3,0,12,3.7,Tough Grader,N/A,271150
+290,Fine,2.3,0,12,4.3,Inspirational,N/A,300097
+291,Humanities,2.2,1,12,4.6,Participation matters,N/A,354739
+292,English,3.8,1,12,3.4,,N/A,372230
+293,Family,2.9,1,12,3.5,LOTS OF HOMEWORK,40%,498354
+294,Economics,3.4,0,12,3.5,,N/A,549985
+295,Women's,2.7,0,12,3.4,,N/A,581437
+296,Computer,3.8,0,12,3.1,LOTS OF HOMEWORK,N/A,664870
+297,Communication,2.2,1,12,4.8,Respected,N/A,672018
+298,History,3.8,1,12,4.4,Get ready to read,N/A,687691
+299,Geology,1.9,0,12,4.6,,N/A,703162
+300,Biology,3.8,0,12,2.4,Tough Grader,N/A,733050
+301,English,3.1,0,12,3.9,Gives good feedback,N/A,814939
+302,Foods,3.6,0,12,2.7,Gives good feedback,N/A,882305
+303,English,2.9,0,12,3.7,Gives good feedback,N/A,883341
+304,Mechanical,2.8,0,12,3.7,LOTS OF HOMEWORK,N/A,990241
+305,History,2.8,0,12,4.3,EXTRA CREDIT,N/A,1066061
+306,Business,3.1,0,12,3.4,Caring,N/A,1279315
+307,Sociology,2.2,1,12,4.9,Gives good feedback,N/A,1307490
+308,Mechanical,3.7,0,12,3.0,LOTS OF HOMEWORK,N/A,1562741
+309,Mathematics,3.0,0,12,2.8,LOTS OF HOMEWORK,N/A,1569395
+310,Writing,3.3,0,12,2.4,Tough Grader,N/A,1646093
+311,Mathematics,3.8,0,12,2.0,Tough Grader,N/A,1795704
+312,Mathematics,1.6,1,12,4.9,Clear grading criteria,N/A,1799031
+313,Economics,3.6,1,12,3.0,Tough Grader,N/A,1802861
+314,Communication,3.1,0,12,2.3,Caring,N/A,675354
+315,Mathematics,3.3,0,12,3.9,LOTS OF HOMEWORK,N/A,1832466
+316,Engineering,3.8,0,11,4.6,Tough Grader,N/A,131757
+317,Philosophy,3.7,1,11,4.1,,N/A,135251
+318,Philosophy,3.3,0,11,4.1,,N/A,135265
+319,Chemistry,4.0,0,11,2.2,,N/A,255788
+320,Health,2.6,0,11,3.0,,N/A,261107
+321,Computer,3.5,0,11,4.6,Caring,N/A,261464
+322,Political,3.3,0,11,4.5,LECTURE HEAVY,N/A,263426
+323,Fine,4.4,0,11,3.6,Skip class You wont pass,N/A,300101
+324,History,4.0,0,11,3.7,Tough Grader,N/A,562196
+325,Languages,2.2,1,11,4.3,LOTS OF HOMEWORK,N/A,668440
+326,Mathematics,3.5,0,11,3.8,Gives good feedback,N/A,672048
+327,Fine,3.3,0,11,3.5,Gives good feedback,N/A,676396
+328,Physics,3.9,0,11,3.0,Tough Grader,N/A,676738
+329,Film,3.1,0,11,4.6,Skip class You wont pass,N/A,702078
+330,Music,2.6,0,11,3.1,,N/A,717873
+331,Philosophy,3.7,0,11,4.1,Amazing lectures,N/A,750205
+332,Health,2.5,0,11,4.2,Get ready to read,N/A,772509
+333,English,3.4,0,11,2.7,Get ready to read,N/A,831053
+334,Film,3.3,0,11,2.6,Gives good feedback,N/A,837199
+335,English,4.2,0,11,4.3,Get ready to read,N/A,844982
+336,Marketing,4.2,0,11,3.0,Tough Grader,N/A,895487
+337,Political,2.7,1,11,4.5,,N/A,964094
+338,Languages,2.6,0,11,3.3,,N/A,1087492
+339,Chemistry,4.7,0,11,3.9,Tough Grader,N/A,1120133
+340,Family,1.9,1,11,4.9,Get ready to read,N/A,1170485
+341,Political,2.8,0,11,2.9,,N/A,1262428
+342,Languages,3.2,0,11,3.9,Tough Grader,N/A,1269982
+343,Mathematics,2.7,0,11,4.5,LOTS OF HOMEWORK,N/A,1285436
+344,Accounting,3.7,1,11,2.8,Respected,N/A,1336869
+345,Economics,4.5,0,11,1.4,Tough Grader,N/A,1390757
+346,Mathematics,2.4,1,11,4.8,Inspirational,N/A,1491325
+347,Mathematics,2.7,1,11,4.6,Caring,N/A,1495403
+348,Physics,3.7,0,11,4.2,Amazing lectures,N/A,1567743
+349,Mathematics,3.5,0,11,2.8,BEWARE OF POP QUIZZES,N/A,1637829
+350,Writing,3.1,0,11,3.8,Hilarious,N/A,1668670
+351,Mathematics,3.2,0,11,3.1,LOTS OF HOMEWORK,N/A,1679189
+352,Biology,4.1,0,11,3.8,Skip class You wont pass,N/A,1702769
+353,Economics,3.5,0,11,2.3,Tough Grader,N/A,1721964
+354,Communication,2.1,0,11,4.9,EXTRA CREDIT,N/A,1779373
+355,Social,3.5,1,11,4.5,Amazing lectures,N/A,1813271
+356,Mathematics,2.9,1,11,3.8,Caring,N/A,1830149
+357,Business,3.5,0,11,4.1,Caring,N/A,1885315
+358,Architecture,3.1,0,11,3.8,Skip class You wont pass,N/A,1961631
+359,Communication,3.2,1,11,4.0,Skip class You wont pass,60%,2052644
+360,Music,1.2,0,11,3.0,Clear grading criteria,29%,2087221
+361,Not,3.6,0,11,4.4,Tough Grader,80%,1701841
+362,Biology,3.5,0,11,3.5,TEST HEAVY,N/A,520574
+363,History,3.7,1,11,2.5,Tough Grader,N/A,1938016
+364,History,3.3,0,10,3.9,Gives good feedback,N/A,261667
+365,Mathematics,3.2,0,10,3.2,ACCESSIBLE OUTSIDE CLASS,N/A,262083
+366,Engineering,2.7,0,10,5.0,,N/A,264310
+367,Anthropology,2.3,0,10,4.1,,N/A,269816
+368,Philosophy,3.1,0,10,2.3,,N/A,286594
+369,Fine,3.0,0,10,3.1,,N/A,300099
+370,Sociology,2.3,1,10,3.0,,N/A,364011
+371,English,3.2,1,10,4.8,Get ready to read,N/A,392421
+372,English,1.3,0,10,4.2,Participation matters,N/A,471944
+373,Philosophy,3.5,0,10,3.2,Gives good feedback,N/A,509824
+374,Business,3.3,0,10,3.3,,N/A,535252
+375,Education,2.9,1,10,3.9,,N/A,627202
+376,Anthropology,2.8,0,10,3.5,Amazing lectures,N/A,676426
+377,Psychology,1.7,0,10,4.9,,N/A,689400
+378,Writing,2.8,0,10,3.8,Clear grading criteria,N/A,689609
+379,Mathematics,2.2,1,10,4.6,Skip class You wont pass,N/A,768824
+380,Anthropology,2.7,0,10,3.5,,N/A,779101
+381,Writing,2.2,1,10,4.9,,N/A,874103
+382,History,3.2,0,10,3.8,Tough Grader,N/A,962198
+383,Finance,3.5,1,10,4.1,Skip class You wont pass,N/A,1017986
+384,Economics,3.2,0,10,3.1,,N/A,1033008
+385,Architecture,2.2,0,10,4.7,Amazing lectures,N/A,1048666
+386,Family,2.6,0,10,2.5,Skip class You wont pass,N/A,1054825
+387,Political,2.9,0,10,3.4,Caring,N/A,1057423
+388,Psychology,2.6,0,10,3.7,Skip class You wont pass,N/A,1121009
+389,Communication,2.0,0,10,4.2,,N/A,1123145
+390,Art,4.0,0,10,2.7,Tough Grader,N/A,1145310
+391,Mathematics,3.8,1,10,3.5,,N/A,1184206
+392,Geography,2.6,1,10,3.3,Clear grading criteria,N/A,1229504
+393,Health,3.7,0,10,2.8,Tough Grader,N/A,1231312
+394,Physics,4.2,0,10,3.0,Tough Grader,N/A,1256910
+395,English,3.6,1,10,4.0,,N/A,1308200
+396,Physics,3.2,0,10,2.2,LOTS OF HOMEWORK,N/A,1310306
+397,Philosophy,3.3,0,10,4.2,Skip class You wont pass,N/A,1359409
+398,Health,3.3,1,10,5.0,,N/A,1388603
+399,Languages,3.0,0,10,3.7,Participation matters,N/A,1424597
+400,Physics,3.3,0,10,4.7,Amazing lectures,N/A,1434098
+401,Sociology,2.2,0,10,4.8,,N/A,1501649
+402,Communication,3.5,0,10,4.0,,N/A,1501692
+403,Languages,2.3,1,10,4.6,Participation matters,N/A,1522303
+404,Biology,2.7,0,10,3.0,Get ready to read,N/A,1612484
+405,Accounting,3.8,1,10,4.9,Skip class You wont pass,N/A,1666545
+406,Physics,2.8,0,10,3.9,LOTS OF HOMEWORK,N/A,1683277
+407,Mathematics,2.6,1,10,3.6,,N/A,1710097
+408,Business,2.1,0,10,4.1,Inspirational,N/A,1721796
+409,Mathematics,3.1,0,10,3.6,Skip class You wont pass,N/A,1723863
+410,Geology,2.6,0,10,3.6,Gives good feedback,N/A,1737896
+411,English,3.7,1,10,3.3,Get ready to read,N/A,1773243
+412,Accounting,3.3,1,10,3.8,Caring,N/A,1774496
+413,Health,3.5,1,10,3.5,Tough Grader,N/A,1783295
+414,Communication,2.5,1,10,4.9,Gives good feedback,N/A,1844341
+415,Mechanical,3.5,1,10,4.0,Tough Grader,N/A,1870670
+416,Chemistry,3.0,0,10,3.9,Hilarious,71%,1948812
+417,Biology,4.0,0,10,4.8,Skip class You wont pass,100%,2011580
+418,Health,4.1,0,10,1.6,LOTS OF HOMEWORK,17%,2040417
+419,History,2.4,0,10,3.2,Get ready to read,N/A,251393
+420,Political,2.6,0,10,3.5,Get ready to read,N/A,1457879
+421,Biology,4.1,0,10,3.0,Tough Grader,N/A,1866163
+422,English,2.0,0,9,3.2,Gives good feedback,N/A,134022
+423,Communication,2.9,0,9,3.4,,N/A,250480
+424,Health,1.8,0,9,3.7,,N/A,312180
+425,Chemistry,2.2,0,9,4.4,,N/A,343994
+426,Languages,2.7,1,9,4.6,Caring,N/A,498401
+427,Economics,3.0,0,9,3.3,,N/A,509826
+428,Mathematics,3.6,0,9,4.5,Gives good feedback,N/A,566281
+429,Computer,1.7,0,9,2.2,,N/A,575061
+430,Education,1.6,0,9,4.2,Gives good feedback,N/A,649836
+431,Health,1.6,0,9,4.2,,N/A,650317
+432,Art,2.1,1,9,4.7,,N/A,656218
+433,Theater,2.6,1,9,4.7,,N/A,660885
+434,Theater,1.3,0,9,4.3,Caring,N/A,666522
+435,Mathematics,3.2,0,9,3.9,Gives good feedback,N/A,678586
+436,Psychology,2.7,0,9,3.6,Amazing lectures,N/A,700253
+437,Engineering,3.1,0,9,4.5,EXTRA CREDIT,N/A,711768
+438,English,3.4,0,9,3.5,,N/A,736263
+439,Literature,4.2,0,9,3.8,Get ready to read,N/A,741282
+440,Writing,2.3,1,9,4.4,,N/A,768402
+441,Mathematics,2.7,0,9,3.3,Tough Grader,N/A,812618
+442,Economics,4.2,0,9,2.8,,N/A,814318
+443,Social,3.0,0,9,3.9,,N/A,817793
+444,Anthropology,3.3,0,9,1.8,Tough Grader,N/A,1008458
+445,Psychology,2.2,0,9,4.0,Get ready to read,N/A,1125302
+446,Family,2.5,1,9,4.5,Gives good feedback,N/A,1129969
+447,Geography,4.4,0,9,2.1,,N/A,1181789
+448,Health,1.7,0,9,3.6,Skip class You wont pass,N/A,1203191
+449,Communication,3.5,0,9,3.9,Get ready to read,N/A,1236261
+450,Sociology,2.8,1,9,4.3,,N/A,1282871
+451,Biology,4.6,0,9,2.8,Tough Grader,N/A,1330399
+452,Statistics,3.0,0,9,3.2,Tough Grader,N/A,1349734
+453,Languages,2.6,0,9,3.8,,N/A,1357365
+454,Accounting,3.3,0,9,3.4,Gives good feedback,N/A,1357468
+455,Chemical,3.8,1,9,4.1,Tough Grader,N/A,1363332
+456,Philosophy,4.6,1,9,4.2,Get ready to read,N/A,1392079
+457,Writing,2.0,0,9,3.8,Hilarious,N/A,1411004
+458,Mathematics,3.3,0,9,1.8,,N/A,1439966
+459,Health,3.6,0,9,2.3,Get ready to read,N/A,1448848
+460,Communication,3.6,0,9,3.8,Respected,N/A,1455216
+461,English,3.3,0,9,2.3,Get ready to read,N/A,1466586
+462,Mathematics,4.0,0,9,2.6,,N/A,1478506
+463,Sociology,1.9,1,9,5.0,Participation matters,N/A,1528061
+464,Mathematics,4.8,0,9,1.3,Tough Grader,N/A,1550496
+465,Communication,3.7,0,9,2.6,Get ready to read,N/A,1606371
+466,Mathematics,2.3,0,9,4.6,LOTS OF HOMEWORK,N/A,1636076
+467,Mathematics,2.4,0,9,3.9,Clear grading criteria,N/A,1649499
+468,Mathematics,3.9,0,9,2.3,Tough Grader,N/A,1675034
+469,Languages,2.7,0,9,3.9,Get ready to read,N/A,1678156
+470,Humanities,3.6,0,9,2.6,Tough Grader,N/A,1735020
+471,Writing,2.1,0,9,3.0,Skip class You wont pass,N/A,1757355
+472,Computer,3.6,1,9,4.7,Respected,N/A,1757368
+473,Mechanical,4.3,0,9,3.4,Tough Grader,N/A,1761823
+474,Economics,2.8,1,9,4.2,Participation matters,N/A,1799154
+475,Economics,2.6,0,9,4.0,Skip class You wont pass,N/A,1814041
+476,Architecture,3.2,0,9,4.8,Caring,N/A,1859359
+477,Languages,3.4,1,9,4.9,Gives good feedback,N/A,1870887
+478,Health,3.6,0,9,3.2,Tough Grader,N/A,1874947
+479,English,1.7,0,9,4.7,LOTS OF HOMEWORK,N/A,1950968
+480,Philosophy,2.4,1,9,4.8,Clear grading criteria,N/A,1958104
+481,Sociology,4.8,0,9,1.3,Tough Grader,N/A,2085131
+482,Political,3.3,0,9,2.2,LOTS OF HOMEWORK,N/A,2092231
+483,English,2.6,0,9,4.8,Gives good feedback,N/A,1771808
+484,Physics,3.9,0,9,3.4,Tough Grader,N/A,1567744
+485,Communication,3.4,1,8,4.4,,N/A,93493
+486,Health,4.4,0,8,2.3,,N/A,209593
+487,Mathematics,2.1,0,8,4.4,,N/A,261323
+488,Computer,3.1,0,8,3.6,,N/A,261466
+489,Nursing,3.6,1,8,5.0,,N/A,261536
+490,Fine,2.4,0,8,3.8,,N/A,354635
+491,History,3.1,0,8,4.5,,N/A,549983
+492,History,3.8,0,8,3.8,,N/A,588539
+493,Family,2.0,1,8,4.2,GROUP PROJECTS,N/A,609506
+494,Mathematics,2.1,0,8,3.6,,N/A,649835
+495,History,3.9,0,8,2.9,,N/A,653201
+496,Anthropology,4.1,0,8,3.0,,N/A,658689
+497,Psychology,3.3,0,8,3.9,Tough Grader,N/A,691801
+498,Psychology,2.3,0,8,4.1,Get ready to read,N/A,691807
+499,Humanities,3.5,0,8,4.4,Respected,N/A,704275
+500,Chemistry,2.4,0,8,3.5,Hilarious,N/A,719478
+501,Languages,2.0,1,8,4.1,,N/A,720735
+502,Economics,2.4,0,8,3.0,,N/A,731458
+503,Mathematics,2.6,0,8,4.4,,N/A,734095
+504,Political,2.1,1,8,4.9,Caring,N/A,779105
+505,Materials,4.0,0,8,4.3,,N/A,902564
+506,Languages,3.0,1,8,4.5,,N/A,917591
+507,Sociology,2.6,0,8,2.3,,N/A,931553
+508,Communication,3.5,0,8,2.3,ACCESSIBLE OUTSIDE CLASS,N/A,1040937
+509,Family,4.0,0,8,1.9,,N/A,1066214
+510,Statistics,4.0,0,8,2.7,,N/A,1077732
+511,Philosophy,1.6,1,8,4.9,Get ready to read,N/A,1117926
+512,Mathematics,4.1,0,8,2.7,,N/A,1131421
+513,Economics,2.8,1,8,4.1,,N/A,1132969
+514,Accounting,3.0,1,8,3.8,LECTURE HEAVY,N/A,1135048
+515,Economics,4.9,0,8,3.4,Tough Grader,N/A,1161792
+516,Geography,3.4,0,8,4.0,Respected,N/A,1175306
+517,Undergraduate,2.3,0,8,4.0,Skip class You wont pass,N/A,1188931
+518,Physics,3.3,0,8,3.8,,N/A,1201106
+519,English,3.1,1,8,3.9,,N/A,1214271
+520,Languages,4.0,0,8,3.9,LOTS OF HOMEWORK,N/A,1295168
+521,Psychology,3.4,0,8,3.3,Tough Grader,N/A,1311204
+522,History,4.0,0,8,3.0,Participation matters,N/A,1330198
+523,Ethnic,2.4,0,8,4.7,Hilarious,N/A,1342430
+524,Mathematics,3.4,0,8,2.7,,N/A,1349020
+525,Chemistry,4.0,0,8,2.2,,N/A,1357879
+526,Mathematics,3.0,1,8,4.6,,N/A,1376703
+527,Political,3.3,1,8,4.8,Participation matters,N/A,1387264
+528,Psychology,3.5,1,8,4.3,Tough Grader,N/A,1502041
+529,Communication,4.1,0,8,2.7,Tough Grader,N/A,1511187
+530,Communication,3.0,1,8,4.6,Clear grading criteria,N/A,1520728
+531,Chemistry,4.4,0,8,2.4,Tough Grader,N/A,1541987
+532,Chemistry,3.2,0,8,4.4,Participation matters,N/A,1567814
+533,Art,4.9,0,8,1.4,Tough Grader,N/A,1608136
+534,Mathematics,3.4,0,8,4.1,,N/A,1638250
+535,Computer,4.4,0,8,1.4,Tough Grader,N/A,1640356
+536,Art,1.9,0,8,3.4,Gives good feedback,N/A,1651086
+537,Mathematics,3.1,0,8,3.0,Caring,N/A,1651939
+538,Physics,3.7,0,8,2.4,Tough Grader,20%,1653138
+539,Art,2.6,0,8,3.3,,N/A,1663474
+540,Art,2.5,1,8,4.8,Gives good feedback,N/A,1668787
+541,Economics,2.4,1,8,4.9,,N/A,1673829
+542,Mathematics,2.8,1,8,4.5,Respected,N/A,1721209
+543,English,2.1,1,8,3.8,Skip class You wont pass,N/A,1775415
+544,Chemistry,3.1,0,8,4.6,Caring,100%,1828836
+545,Business,2.0,0,8,4.2,Gives good feedback,N/A,1831168
+546,Mathematics,2.0,1,8,4.4,Caring,N/A,1851411
+547,Mathematics,3.9,0,8,1.7,LOTS OF HOMEWORK,N/A,1863976
+548,Mechanical,4.1,0,8,2.9,Get ready to read,N/A,1870668
+549,Materials,4.0,0,8,4.0,Tough Grader,N/A,1872999
+550,Mathematics,3.5,1,8,4.6,Respected,N/A,1873775
+551,Accounting,3.4,0,8,3.4,GROUP PROJECTS,N/A,1895979
+552,Economics,4.1,0,8,1.4,Get ready to read,N/A,1897050
+553,History,2.5,0,8,4.2,BEWARE OF POP QUIZZES,N/A,1904248
+554,Architecture,3.8,1,8,3.4,Participation matters,N/A,1915935
+555,Business,3.1,0,8,1.8,Tough Grader,N/A,1938076
+556,Mathematics,3.1,1,8,4.3,Caring,N/A,1945448
+557,Communication,4.3,1,8,1.9,Tough Grader,N/A,1947394
+558,Economics,4.6,0,8,2.3,Tough Grader,N/A,2036511
+559,English,3.0,0,8,4.2,Participation matters,N/A,2053070
+560,Biology,3.7,1,8,4.4,Caring,88%,2164419
+561,Biology,4.2,0,8,2.5,LECTURE HEAVY,17%,1443591
+562,Bioengineering,4.4,0,8,1.8,LOTS OF HOMEWORK,N/A,1880772
+563,Accounting,3.5,1,8,4.3,Caring,N/A,1967650
+564,English,3.3,0,7,1.1,,N/A,133994
+565,English,4.7,0,7,3.2,,N/A,205344
+566,English,2.9,1,7,4.8,Amazing lectures,N/A,211353
+567,Music,3.7,1,7,4.1,Hilarious,N/A,280628
+568,Fine,2.1,1,7,4.9,,N/A,285651
+569,Social,3.1,0,7,4.4,Respected,N/A,334103
+570,Philosophy,2.9,0,7,2.5,,N/A,463897
+571,Writing,2.4,1,7,4.4,,N/A,495780
+572,Philosophy,3.1,0,7,2.9,Participation matters,N/A,639440
+573,Philosophy,3.6,0,7,2.9,,N/A,671517
+574,History,2.1,0,7,2.6,,N/A,671566
+575,Film,2.9,0,7,3.5,Participation matters,N/A,702079
+576,History,3.6,0,7,4.0,Participation matters,N/A,745796
+577,Languages,4.3,0,7,1.8,,N/A,748021
+578,Languages,3.1,1,7,4.9,,N/A,795596
+579,Communication,2.0,1,7,4.9,Gives good feedback,N/A,796281
+580,Political,3.3,0,7,3.9,,N/A,826710
+581,Communication,3.6,1,7,3.8,Tough Grader,N/A,836064
+582,Computer,2.6,0,7,4.4,LOTS OF HOMEWORK,N/A,836648
+583,Family,3.2,0,7,4.4,Get ready to read,N/A,867140
+584,Music,4.0,1,7,4.4,,N/A,941337
+585,Political,3.7,1,7,4.8,,N/A,1009626
+586,Communication,3.1,1,7,4.7,EXTRA CREDIT,N/A,1024045
+587,Sociology,3.4,0,7,4.0,,N/A,1069422
+588,English,3.4,0,7,3.5,Get ready to read,N/A,1087732
+589,Mathematics,2.1,1,7,4.9,,N/A,1094734
+590,Psychology,3.1,0,7,2.2,,N/A,1170176
+591,Social,1.7,1,7,5.0,Amazing lectures,N/A,1196394
+592,Mathematics,3.9,1,7,3.3,Tough Grader,N/A,1231597
+593,Management,3.4,0,7,3.5,Skip class You wont pass,N/A,1244682
+594,Mathematics,2.7,0,7,2.1,,N/A,1285912
+595,Music,2.6,1,7,4.9,Inspirational,N/A,1337665
+596,Chemistry,4.3,0,7,1.9,,N/A,1349023
+597,Economics,3.9,1,7,2.7,Skip class You wont pass,N/A,1357146
+598,Economics,2.6,1,7,4.1,,N/A,1362439
+599,Chemistry,3.1,0,7,2.6,Get ready to read,N/A,1431627
+600,Economics,2.7,0,7,3.5,Caring,N/A,1446416
+601,English,4.0,0,7,3.0,Tough Grader,N/A,1495006
+602,Mathematics,3.1,1,7,3.9,,N/A,1507423
+603,Statistics,2.7,1,7,4.7,,N/A,1510664
+604,Gender,2.0,1,7,4.9,,N/A,1522739
+605,Mathematics,2.3,1,7,4.8,,N/A,1527294
+606,Mechanical,3.1,1,7,4.4,Tough Grader,N/A,1549249
+607,Physics,3.3,0,7,2.7,Participation matters,N/A,1567741
+608,Mechanical,3.9,0,7,4.1,Skip class You wont pass,N/A,1572613
+609,Educational,1.8,0,7,4.9,Get ready to read,N/A,1608510
+610,Mathematics,4.6,0,7,2.3,Tough Grader,N/A,1628223
+611,Political,1.9,0,7,2.7,,N/A,1659520
+612,Mathematics,3.3,0,7,3.8,,N/A,1689881
+613,Mathematics,2.9,0,7,3.1,,N/A,1710303
+614,Finance,3.0,0,7,3.3,Skip class You wont pass,N/A,1727663
+615,Political,1.3,1,7,4.9,Caring,N/A,1730937
+616,Communication,2.7,0,7,3.9,Skip class You wont pass,N/A,1739515
+617,Music,2.4,0,7,4.7,Gives good feedback,N/A,1740560
+618,History,3.7,0,7,2.6,,N/A,1752321
+619,Communication,2.4,1,7,4.9,Respected,N/A,1774860
+620,Health,1.7,0,7,4.4,LOTS OF HOMEWORK,N/A,1783292
+621,Health,1.4,1,7,5.0,Amazing lectures,N/A,1788597
+622,Communication,3.6,0,7,5.0,Gives good feedback,N/A,1803948
+623,Psychology,2.7,0,7,3.4,GROUP PROJECTS,N/A,1812691
+624,Philosophy,3.3,0,7,2.6,Get ready to read,N/A,1822349
+625,Linguistics,2.7,0,7,4.5,Participation matters,N/A,1833002
+626,Communication,4.0,0,7,2.4,Skip class You wont pass,N/A,1869362
+627,Business,2.7,0,7,3.5,Participation matters,N/A,1869925
+628,Geography,2.1,1,7,4.5,Gives good feedback,N/A,1893575
+629,Business,3.3,1,7,4.1,Get ready to read,N/A,1910838
+630,Exercise,1.7,0,7,4.6,Participation matters,N/A,1926422
+631,Economics,2.1,0,7,4.4,EXTRA CREDIT,N/A,1969221
+632,Business,3.6,0,7,2.5,Tough Grader,N/A,1969265
+633,Art,1.4,0,7,3.5,Participation matters,N/A,1974180
+634,Statistics,3.9,0,7,1.8,Skip class You wont pass,N/A,2003432
+635,Chemistry,4.1,0,7,2.3,Tough Grader,N/A,2046949
+636,Political,2.6,1,7,4.4,Inspirational,N/A,2066938
+637,Mechanical,2.7,1,7,4.9,Respected,N/A,2093787
+638,Materials,2.1,1,7,3.5,GROUP PROJECTS,57%,2133444
+639,Biology,3.6,1,7,4.4,Get ready to read,100%,2213588
+640,Mathematics,5.0,0,7,1.6,Tough Grader,14%,2198099
+641,Mathematics,3.7,0,7,2.4,LOTS OF HOMEWORK,N/A,1990826
+642,Biology,3.3,1,6,4.4,,N/A,111426
+643,Women's,3.0,1,6,5.0,,N/A,149945
+644,Communication,2.2,0,6,4.0,,N/A,250481
+645,Political,2.8,0,6,3.6,Caring,N/A,251397
+646,History,4.0,0,6,1.5,,N/A,261236
+647,History,3.5,1,6,4.8,,N/A,261662
+648,History,3.3,0,6,4.3,LOTS OF HOMEWORK,N/A,261669
+649,Education,1.2,0,6,5.0,,N/A,261685
+650,Accounting,3.3,0,6,4.0,Tough Grader,N/A,262213
+651,Management,2.3,1,6,3.0,Tough Grader,N/A,342966
+652,Communication,2.7,1,6,4.5,,N/A,376899
+653,Management,2.8,0,6,3.2,,N/A,402815
+654,Writing,2.5,1,6,5.0,,N/A,405474
+655,Writing,3.0,0,6,3.7,,N/A,405475
+656,Sociology,4.5,1,6,3.8,,N/A,408145
+657,Humanities,3.3,0,6,1.8,,N/A,449527
+658,Mathematics,3.2,1,6,3.3,,N/A,465230
+659,English,3.8,0,6,2.3,,N/A,519830
+660,Social,2.8,0,6,3.5,,N/A,521221
+661,Computer,2.7,0,6,4.3,,N/A,536005
+662,Mathematics,3.0,1,6,3.9,Clear grading criteria,N/A,604121
+663,Mathematics,3.3,0,6,2.5,,N/A,607242
+664,Theater,3.3,0,6,3.8,,N/A,608567
+665,Computer,3.3,0,6,3.0,,N/A,608776
+666,Physics,1.5,0,6,3.3,,N/A,618564
+667,Psychology,2.5,1,6,5.0,Clear grading criteria,N/A,640283
+668,Theater,1.8,0,6,4.7,,N/A,656703
+669,Art,2.0,0,6,2.1,,N/A,676399
+670,Psychology,2.5,1,6,4.9,,N/A,681505
+671,Fine,4.3,0,6,2.7,,N/A,683081
+672,Linguistics,3.8,0,6,3.1,,N/A,683807
+673,Architecture,4.7,0,6,3.6,Participation matters,N/A,691187
+674,Psychology,4.3,0,6,2.6,Amazing lectures,N/A,691805
+675,Music,2.2,0,6,4.4,Inspirational,N/A,691971
+676,Health,2.7,0,6,4.6,Hilarious,N/A,733928
+677,History,3.7,1,6,4.4,Get ready to read,N/A,768960
+678,Mathematics,3.2,0,6,1.7,,N/A,789237
+679,Communication,3.8,0,6,2.3,,N/A,823449
+680,Gender,2.5,1,6,4.5,,N/A,872520
+681,Languages,3.5,0,6,3.1,Amazing lectures,N/A,904474
+682,Art,3.0,0,6,3.3,,N/A,922874
+683,Economics,4.0,0,6,2.4,,N/A,930488
+684,Ethnic,3.7,0,6,2.3,,N/A,934383
+685,Family,2.3,0,6,3.3,Gives good feedback,N/A,936536
+686,Business,3.0,0,6,2.6,,N/A,975224
+687,Communication,3.3,0,6,4.2,Skip class You wont pass,N/A,981763
+688,History,4.8,0,6,1.9,Tough Grader,N/A,1034558
+689,Mathematics,2.8,1,6,4.5,,N/A,1047073
+690,Writing,1.8,0,6,4.9,Hilarious,N/A,1076636
+691,Accounting,4.3,0,6,2.3,Tough Grader,N/A,1088742
+692,Management,3.2,0,6,3.0,Tough Grader,N/A,1167355
+693,Communication,3.8,0,6,1.9,,N/A,1181802
+694,Social,4.8,0,6,2.7,,N/A,1182144
+695,English,3.8,0,6,4.3,Tough Grader,N/A,1194668
+696,Political,3.5,0,6,4.0,Get ready to read,N/A,1210899
+697,Engineering,3.2,0,6,1.6,,N/A,1232184
+698,English,1.7,1,6,5.0,Amazing lectures,N/A,1274132
+699,Geography,2.8,1,6,4.7,Participation matters,N/A,1291435
+700,Languages,3.3,1,6,4.2,Tough Grader,N/A,1295171
+701,Communication,2.7,1,6,4.8,,N/A,1339424
+702,Mathematics,3.2,0,6,3.5,,N/A,1411521
+703,Music,3.0,1,6,4.8,Inspirational,N/A,1453480
+704,Marketing,3.8,0,6,3.8,Respected,N/A,1467627
+705,Art,2.7,0,6,3.8,LECTURE HEAVY,N/A,1486165
+706,Exercise,2.5,1,6,3.8,Tough Grader,N/A,1511058
+707,Languages,3.3,1,6,3.9,Participation matters,N/A,1511387
+708,Economics,2.7,0,6,4.0,,N/A,1515769
+709,Physics,4.2,0,6,2.1,LECTURE HEAVY,N/A,1567749
+710,Mathematics,4.0,1,6,4.2,Hilarious,N/A,1568483
+711,Mathematics,2.3,1,6,3.9,Respected,N/A,1572619
+712,Meteorology,2.8,0,6,2.9,BEWARE OF POP QUIZZES,N/A,1572722
+713,Mechanical,4.2,0,6,2.8,,N/A,1636479
+714,English,1.8,1,6,4.3,,N/A,1650943
+715,Business,4.5,0,6,2.8,,N/A,1651525
+716,Art,2.3,1,6,4.0,LOTS OF HOMEWORK,N/A,1661805
+717,Philosophy,4.7,0,6,2.3,Tough Grader,N/A,1666582
+718,Mathematics,4.3,0,6,3.3,Caring,N/A,1683427
+719,Business,1.8,0,6,3.1,LECTURE HEAVY,N/A,1712822
+720,Philosophy,3.5,0,6,3.7,,N/A,1716123
+721,Biology,3.5,0,6,3.5,LECTURE HEAVY,N/A,1743262
+722,Biology,3.3,0,6,2.5,Participation matters,N/A,1754265
+723,Writing,4.8,0,6,1.3,,N/A,1755975
+724,Communication,2.8,1,6,4.8,,N/A,1756703
+725,Linguistics,3.2,0,6,2.3,GROUP PROJECTS,N/A,1769611
+726,Communication,2.5,0,6,3.9,Hilarious,N/A,1775506
+727,Psychology,2.2,1,6,3.8,Clear grading criteria,N/A,1780674
+728,Film,3.7,0,6,4.6,Respected,N/A,1783704
+729,Mechanical,3.0,1,6,4.9,Amazing lectures,N/A,1787779
+730,Mathematics,3.5,1,6,3.6,Hilarious,N/A,1795703
+731,Sociology,3.3,0,6,1.6,Get ready to read,N/A,1796901
+732,Finance,2.3,0,6,3.1,LOTS OF HOMEWORK,N/A,1803940
+733,Physical,4.5,0,6,2.2,Tough Grader,N/A,1804061
+734,Bioengineering,3.2,0,6,2.9,GROUP PROJECTS,N/A,1808781
+735,English,1.5,1,6,4.9,Gives good feedback,N/A,1810659
+736,Biology,3.7,0,6,3.3,Participation matters,N/A,1812114
+737,Business,2.3,0,6,2.3,Skip class You wont pass,N/A,1836700
+738,Sociology,3.7,0,6,2.0,Tough Grader,N/A,1840482
+739,Political,2.5,1,6,4.3,Get ready to read,N/A,1840724
+740,Mathematics,4.0,0,6,2.5,Tough Grader,N/A,1846427
+741,Mathematics,2.7,0,6,3.3,Skip class You wont pass,N/A,1851361
+742,English,2.5,0,6,4.8,Hilarious,N/A,1851764
+743,Exercise,4.2,0,6,1.3,Tough Grader,N/A,1851959
+744,Linguistics,2.8,1,6,5.0,Gives good feedback,N/A,1863265
+745,Psychology,3.5,1,6,3.9,Tough Grader,N/A,1864760
+746,Science,4.0,0,6,1.4,Tough Grader,N/A,1868068
+747,Music,2.0,0,6,3.9,Gives good feedback,N/A,1870989
+748,Communication,4.0,0,6,1.8,Tough Grader,N/A,1871061
+749,Exercise,2.8,0,6,4.3,Tough Grader,N/A,1903264
+750,Business,3.5,0,6,3.4,LECTURE HEAVY,N/A,1904516
+751,Accounting,3.7,0,6,2.5,Gives good feedback,N/A,1909111
+752,Philosophy,4.2,1,6,4.0,LECTURE HEAVY,N/A,1913494
+753,Communication,2.0,0,6,4.7,Respected,N/A,1913888
+754,Health,2.0,0,6,4.8,Gives good feedback,N/A,1914318
+755,Writing,2.3,0,6,2.1,LECTURE HEAVY,N/A,1920857
+756,Languages,2.5,0,6,4.8,Gives good feedback,N/A,1950967
+757,Finance,3.2,0,6,3.0,Tough Grader,N/A,1965180
+758,Education,2.0,0,6,4.4,Gives good feedback,N/A,1968999
+759,Writing,3.3,0,6,4.7,Gives good feedback,N/A,1980757
+760,Asian,3.5,0,6,3.4,Get ready to read,N/A,2009915
+761,Finance,2.7,1,6,4.7,Caring,N/A,2015787
+762,Biology,3.8,0,6,3.3,Tough Grader,N/A,2028844
+763,Science,4.5,0,6,2.0,Tough Grader,N/A,2041213
+764,Art,3.8,1,6,4.9,Get ready to read,80%,2046451
+765,Science,3.7,0,6,2.4,Tough Grader,N/A,2084996
+766,Mathematics,3.5,1,6,4.9,Caring,N/A,2097335
+767,Music,2.2,0,6,4.0,Clear grading criteria,N/A,2118925
+768,Finance,3.0,1,6,4.9,Hilarious,N/A,2134295
+769,Economics,4.7,0,6,1.0,GRADED BY FEW THINGS,N/A,2161260
+770,History,3.0,0,6,2.7,EXTRA CREDIT,20%,2129781
+771,Psychology,2.8,0,6,4.7,Inspirational,N/A,936537
+772,Communication,2.3,0,6,3.8,Clear grading criteria,N/A,1718764
+773,Business,4.3,0,6,2.8,Tough Grader,N/A,1429693
+774,Geology,2.3,0,6,3.0,Tough Grader,N/A,1751323
+775,Linguistics,4.7,0,6,2.1,Tough Grader,N/A,1083414
+776,Psychology,3.0,0,6,2.7,Tough Grader,33%,2205325
+777,Engineering,4.6,0,5,2.2,Tough Grader,N/A,131612
+778,Park,3.0,1,5,3.7,,N/A,134201
+779,Political,3.8,0,5,4.0,,N/A,217326
+780,Languages,2.6,1,5,4.2,,N/A,261076
+781,Languages,3.6,1,5,4.8,,N/A,261079
+782,Education,3.0,1,5,2.4,,N/A,261675
+783,Economics,3.2,1,5,4.9,,N/A,262357
+784,Music,2.0,0,5,4.7,,N/A,280625
+785,Computer,3.8,0,5,4.4,Get ready to read,N/A,284779
+786,Communication,2.6,0,5,4.1,,N/A,391736
+787,Theater,2.8,0,5,4.8,BEWARE OF POP QUIZZES,N/A,393171
+788,English,2.8,1,5,4.8,,N/A,463889
+789,Sociology,2.0,1,5,4.8,,N/A,490811
+790,Education,3.4,0,5,3.2,,N/A,490840
+791,Anthropology,4.6,0,5,3.9,Tough Grader,N/A,491741
+792,Asian,3.2,0,5,3.7,,N/A,506283
+793,Mathematics,3.8,1,5,3.5,,N/A,523882
+794,Geology,3.2,0,5,4.3,,N/A,523896
+795,Mathematics,2.8,0,5,2.7,,N/A,523909
+796,Languages,3.8,0,5,3.8,,N/A,534018
+797,Communication,3.6,1,5,3.6,,N/A,606736
+798,Chemistry,3.2,0,5,3.5,Participation matters,N/A,647122
+799,Writing,3.6,0,5,3.9,,N/A,655610
+800,Humanities,3.2,1,5,4.8,,N/A,661701
+801,Psychology,1.6,0,5,4.9,,N/A,689026
+802,Health,2.4,0,5,4.8,,N/A,690680
+803,Park,3.8,1,5,4.3,,N/A,716890
+804,Engineering,4.2,0,5,2.6,Tough Grader,N/A,717400
+805,Mathematics,2.8,1,5,4.3,,N/A,757497
+806,Computer,2.6,1,5,4.9,Tough Grader,N/A,762698
+807,Dance,2.2,1,5,3.1,,N/A,830088
+808,Art,2.4,0,5,4.2,Skip class You wont pass,N/A,837552
+809,Psychology,4.6,1,5,4.0,,N/A,841086
+810,Communication,2.4,0,5,4.3,,N/A,853780
+811,Psychology,2.4,0,5,4.7,,N/A,857488
+812,Mathematics,3.4,0,5,2.6,,N/A,881378
+813,Mathematics,3.4,1,5,3.5,,N/A,928128
+814,Mining,1.8,0,5,4.9,,N/A,947351
+815,Chemistry,4.4,0,5,1.7,,N/A,1009883
+816,Art,2.4,0,5,3.3,,N/A,1054733
+817,Writing,2.6,0,5,2.8,,N/A,1055856
+818,Fine,2.2,0,5,5.0,Amazing lectures,N/A,1075961
+819,Accounting,3.6,0,5,4.2,,N/A,1088728
+820,History,2.8,1,5,4.9,Clear grading criteria,N/A,1106120
+821,Management,2.4,0,5,4.0,,N/A,1167358
+822,Management,3.4,0,5,4.3,Skip class You wont pass,N/A,1167366
+823,TA,2.8,0,5,4.2,,N/A,1172969
+824,Art,4.0,1,5,4.1,Skip class You wont pass,N/A,1183762
+825,Engineering,3.2,0,5,2.9,Tough Grader,N/A,1228169
+826,Mathematics,3.6,0,5,3.0,,N/A,1242627
+827,Film,3.6,0,5,2.2,Tough Grader,N/A,1244715
+828,Accounting,4.2,1,5,4.4,,N/A,1247451
+829,Mechanical,2.6,0,5,3.4,,N/A,1266060
+830,Communication,3.2,1,5,4.5,,N/A,1306184
+831,Economics,2.6,0,5,2.9,,N/A,1306735
+832,Linguistics,3.2,0,5,2.4,Participation matters,N/A,1349565
+833,Economics,3.2,0,5,4.3,,N/A,1353196
+834,Economics,2.4,1,5,3.5,,N/A,1390752
+835,Philosophy,2.6,0,5,3.4,Tough Grader,N/A,1394807
+836,Writing,2.6,0,5,4.5,,N/A,1400040
+837,Family,3.0,0,5,4.6,Tough Grader,N/A,1417762
+838,Accounting,3.2,0,5,3.4,Tough Grader,N/A,1425503
+839,Mathematics,4.0,0,5,3.8,,N/A,1439249
+840,Marketing,3.4,0,5,2.9,,N/A,1441603
+841,Economics,3.4,0,5,4.8,,N/A,1446982
+842,Economics,1.4,0,5,2.9,Participation matters,N/A,1446985
+843,Communication,1.8,0,5,5.0,,N/A,1447224
+844,Economics,3.0,1,5,4.0,,N/A,1447933
+845,Mathematics,4.2,0,5,2.4,,N/A,1472240
+846,Political,4.0,1,5,2.2,GROUP PROJECTS,N/A,1481525
+847,Film,1.8,0,5,3.1,Hilarious,N/A,1483917
+848,Writing,2.2,0,5,3.3,,N/A,1487259
+849,Mathematics,2.0,1,5,4.1,,N/A,1494834
+850,Film,2.0,0,5,4.1,Clear grading criteria,N/A,1518727
+851,Communication,4.4,0,5,2.7,,N/A,1560597
+852,Physics,2.8,0,5,3.1,Gives good feedback,N/A,1567745
+853,Writing,1.8,0,5,5.0,Caring,N/A,1638511
+854,Languages,3.0,0,5,4.2,,N/A,1644988
+855,Communication,2.8,0,5,4.2,Hilarious,N/A,1645329
+856,Communication,4.0,0,5,3.4,Amazing lectures,N/A,1646940
+857,Writing,2.8,0,5,5.0,Gives good feedback,N/A,1659101
+858,Family,2.6,0,5,2.6,LOTS OF HOMEWORK,N/A,1677145
+859,Languages,3.8,0,5,4.2,Get ready to read,N/A,1678164
+860,Political,3.2,0,5,3.1,Participation matters,N/A,1680324
+861,Communication,2.0,0,5,5.0,,N/A,1688898
+862,Communication,3.8,1,5,4.7,,N/A,1702686
+863,History,2.8,0,5,4.6,,N/A,1713074
+864,Special,3.6,0,5,4.3,Gives good feedback,N/A,1713504
+865,Art,2.6,0,5,4.7,LOTS OF HOMEWORK,N/A,1716011
+866,Psychology,3.0,1,5,4.4,Participation matters,N/A,1725508
+867,Mathematics,1.6,0,5,4.0,,N/A,1733118
+868,Mathematics,4.2,0,5,3.0,,N/A,1734619
+869,Not,2.6,1,5,4.2,,N/A,1736283
+870,Business,3.4,1,5,4.5,Skip class You wont pass,N/A,1737375
+871,English,3.4,0,5,4.5,,N/A,1738860
+872,Psychology,2.4,1,5,4.9,,N/A,1744601
+873,Dance,1.6,0,5,4.3,Participation matters,N/A,1751243
+874,Mathematics,3.0,0,5,3.1,,N/A,1771732
+875,English,2.6,0,5,3.6,Participation matters,N/A,1776173
+876,Economics,2.0,0,5,3.0,,N/A,1778689
+877,Writing,3.2,0,5,3.8,LOTS OF HOMEWORK,N/A,1778952
+878,Film,2.4,0,5,4.3,Hilarious,N/A,1783696
+879,Mathematics,3.6,1,5,3.5,Skip class You wont pass,N/A,1792409
+880,Philosophy,3.0,0,5,3.8,Skip class You wont pass,N/A,1792714
+881,Theater,4.0,0,5,2.6,Skip class You wont pass,N/A,1800475
+882,Psychology,2.0,0,5,5.0,Gives good feedback,N/A,1804669
+883,Family,3.2,0,5,3.0,Participation matters,N/A,1810943
+884,Economics,1.2,0,5,5.0,Gives good feedback,N/A,1820374
+885,Biology,3.4,0,5,3.5,EXTRA CREDIT,N/A,1821471
+886,Writing,1.4,1,5,4.6,Caring,N/A,1835342
+887,Economics,3.4,1,5,2.7,Get ready to read,N/A,1839712
+888,Languages,3.6,0,5,4.1,Participation matters,N/A,1840674
+889,Chemistry,4.0,0,5,2.7,LECTURE HEAVY,N/A,1845269
+890,Languages,3.2,1,5,4.8,Skip class You wont pass,N/A,1849500
+891,Languages,3.0,0,5,4.7,Tough Grader,N/A,1849700
+892,Economics,2.6,0,5,2.9,Clear grading criteria,N/A,1853100
+893,Geology,4.0,0,5,3.4,GROUP PROJECTS,N/A,1867381
+894,Communication,2.6,0,5,3.2,Participation matters,N/A,1871110
+895,Physics,2.0,0,5,4.7,LOTS OF HOMEWORK,N/A,1876480
+896,Geology,4.6,0,5,2.8,Tough Grader,N/A,1877740
+897,English,2.6,0,5,3.8,Get ready to read,N/A,1878708
+898,Communication,2.6,1,5,4.5,Clear grading criteria,N/A,1893670
+899,Political,4.2,1,5,4.6,Gives good feedback,N/A,1894946
+900,Marketing,4.2,0,5,2.6,Tough Grader,N/A,1896775
+901,Psychology,2.4,1,5,4.4,Participation matters,N/A,1901021
+902,Theater,2.2,0,5,3.3,Tough Grader,N/A,1907563
+903,Business,3.4,0,5,3.0,Skip class You wont pass,N/A,1916995
+904,Mathematics,3.6,0,5,1.8,LECTURE HEAVY,N/A,1921560
+905,Languages,2.4,0,5,4.9,Caring,N/A,1933811
+906,Exercise,4.0,0,5,2.5,Skip class You wont pass,N/A,1937310
+907,Social,3.4,0,5,2.6,Tough Grader,N/A,1958317
+908,Geology,1.8,1,5,4.2,Clear grading criteria,N/A,1964682
+909,Computer,3.2,0,5,4.1,EXTRA CREDIT,N/A,1965284
+910,Anthropology,2.0,1,5,3.9,Get ready to read,N/A,1976494
+911,Mathematics,3.4,1,5,4.7,LOTS OF HOMEWORK,N/A,1990039
+912,Chemistry,3.0,1,5,4.9,Hilarious,N/A,1994620
+913,History,4.0,0,5,3.2,Gives good feedback,N/A,2001253
+914,Accounting,4.4,1,5,1.6,Tough Grader,N/A,2006312
+915,Sociology,2.0,1,5,4.9,Amazing lectures,N/A,2007667
+916,Mathematics,2.6,0,5,4.6,Caring,N/A,2009218
+917,Communication,2.2,1,5,5.0,Participation matters,N/A,2009881
+918,Sociology,2.2,1,5,4.8,Get ready to read,N/A,2010822
+919,Business,2.4,0,5,1.8,LECTURE HEAVY,N/A,2020036
+920,Economics,3.2,0,5,4.9,Get ready to read,N/A,2032001
+921,English,2.2,0,5,4.5,Gives good feedback,N/A,2044164
+922,Chemistry,3.8,0,5,5.0,Respected,N/A,2047292
+923,Mathematics,4.2,0,5,4.2,Respected,N/A,2063498
+924,Mathematics,4.8,0,5,1.0,Tough Grader,N/A,2064091
+925,Mathematics,3.2,0,5,2.8,Skip class You wont pass,N/A,2075685
+926,English,3.2,0,5,2.8,Tough Grader,N/A,2076107
+927,Business,2.0,1,5,3.6,Get ready to read,N/A,2085207
+928,Economics,1.8,0,5,3.5,EXTRA CREDIT,N/A,2087450
+929,English,3.8,0,5,2.9,Get ready to read,N/A,2116239
+930,Finance,3.2,0,5,3.6,GROUP PROJECTS,60%,2164562
+931,Political,4.2,0,5,5.0,Gives good feedback,100%,2189395
+932,English,4.0,0,5,3.4,Get ready to read,40%,2196746
+933,History,3.0,1,5,4.7,Get ready to read,N/A,2090026
+934,Engineering,3.4,0,5,3.2,Tough Grader,N/A,712197
+935,Mathematics,3.0,0,5,4.1,Clear grading criteria,N/A,2037987
+936,Theater,3.0,0,5,3.9,,N/A,569018
+937,Chemistry,4.6,0,5,1.7,Tough Grader,N/A,1881802
+938,Chemistry,3.2,0,5,4.8,LOTS OF HOMEWORK,N/A,1869031
+939,Mathematics,2.8,0,5,4.6,EXTRA CREDIT,N/A,2033549
+940,Communication,3.5,0,4,2.6,,N/A,93482
+941,Communication,3.3,0,4,3.4,,N/A,93490
+942,Geography,2.8,1,4,5.0,,N/A,188295
+943,Music,1.5,0,4,3.1,,N/A,239242
+944,Mathematics,3.8,1,4,3.1,,N/A,257494
+945,History,3.3,1,4,4.3,,N/A,261369
+946,Business,4.0,0,4,1.1,,N/A,261568
+947,Languages,2.0,1,4,4.5,,N/A,261672
+948,Anthropology,1.8,0,4,4.5,Amazing lectures,N/A,269807
+949,Sociology,3.0,0,4,4.6,,N/A,310292
+950,Languages,3.5,1,4,4.6,Gives good feedback,N/A,346602
+951,Sociology,3.8,0,4,4.1,,N/A,502053
+952,Chemistry,2.8,1,4,4.1,,N/A,516555
+953,English,3.0,1,4,3.8,,N/A,519837
+954,Family,3.2,0,4,3.9,Clear grading criteria,N/A,531970
+955,Computer,4.0,0,4,2.8,,N/A,536002
+956,Languages,2.5,1,4,4.9,,N/A,541673
+957,Mathematics,3.5,0,4,4.6,,N/A,559956
+958,Fine,3.0,0,4,4.0,,N/A,570512
+959,Languages,4.3,0,4,2.1,,N/A,601621
+960,Languages,2.5,0,4,5.0,,N/A,602813
+961,Mathematics,2.8,0,4,2.5,,N/A,624746
+962,Accounting,4.3,0,4,3.9,,N/A,651898
+963,English,4.5,1,4,5.0,,N/A,652337
+964,Political,2.8,0,4,3.4,,N/A,654231
+965,Writing,3.5,0,4,3.3,,N/A,663172
+966,History,3.0,1,4,4.5,,N/A,676143
+967,Film,2.8,0,4,2.6,,N/A,682736
+968,Graphic,4.0,0,4,3.8,Gives good feedback,N/A,683080
+969,Psychology,2.3,0,4,4.3,,N/A,683709
+970,Chemistry,3.8,0,4,4.0,,N/A,702330
+971,Philosophy,2.0,0,4,4.1,,N/A,710556
+972,Computer,4.5,1,4,4.8,,N/A,710737
+973,Engineering,3.5,0,4,2.5,,N/A,711783
+974,Mathematics,2.8,0,4,3.6,,N/A,717871
+975,Fine,2.8,0,4,3.6,,N/A,726360
+976,Medicine,3.8,0,4,4.0,,N/A,727396
+977,Writing,3.5,1,4,3.6,,N/A,730874
+978,English,2.0,0,4,4.3,,N/A,737268
+979,Education,2.5,0,4,2.4,,N/A,756098
+980,Ethnic,3.8,0,4,3.6,Get ready to read,N/A,759226
+981,Languages,3.0,1,4,4.6,,N/A,795601
+982,Anthropology,4.5,0,4,2.4,,N/A,815131
+983,Geography,2.8,0,4,2.8,LECTURE HEAVY,N/A,815293
+984,Dance,3.5,0,4,3.8,,N/A,830082
+985,Languages,4.0,0,4,3.9,Gives good feedback,N/A,832782
+986,Writing,3.3,0,4,4.1,Participation matters,N/A,832921
+987,Education,3.5,1,4,3.0,Gives good feedback,N/A,842175
+988,Management,4.0,1,4,4.1,,N/A,844484
+989,Psychology,2.8,1,4,4.8,,N/A,855896
+990,Mathematics,4.0,0,4,3.0,Skip class You wont pass,N/A,863157
+991,Social,3.3,1,4,4.9,Clear grading criteria,N/A,867062
+992,Medicine,2.0,0,4,1.9,,N/A,892090
+993,Communication,2.3,1,4,4.8,,N/A,916665
+994,Family,3.3,1,4,4.4,,N/A,918245
+995,Philosophy,2.3,0,4,3.5,,N/A,918531
+996,Psychology,2.5,1,4,4.8,,N/A,921343
+997,Geography,1.5,1,4,4.8,Hilarious,N/A,922049
+998,Mathematics,1.5,0,4,4.0,LOTS OF HOMEWORK,N/A,928129
+999,English,2.3,0,4,4.4,Inspirational,N/A,928147
+1000,Writing,2.5,0,4,5.0,,N/A,930625
+1001,Economics,4.8,0,4,2.5,,N/A,934983
+1002,Health,1.8,1,4,3.6,,N/A,945498
+1003,Engineering,4.0,1,4,4.9,GROUP PROJECTS,N/A,956026
+1004,Statistics,3.5,1,4,3.5,,N/A,956389
+1005,Economics,3.5,1,4,3.3,,N/A,981216
+1006,Physics,3.5,0,4,2.3,,N/A,982279
+1007,Mathematics,3.5,0,4,4.1,,N/A,982558
+1008,Music,3.3,0,4,4.4,,N/A,1008250
+1009,Mathematics,3.5,0,4,4.0,Gives good feedback,N/A,1026999
+1010,Not,2.5,0,4,3.1,,N/A,1046372
+1011,Educational,1.3,1,4,4.8,,N/A,1046660
+1012,Mathematics,2.8,1,4,4.4,,N/A,1047012
+1013,Psychology,3.5,1,4,4.9,,N/A,1049960
+1014,Business,3.3,0,4,2.0,,N/A,1070260
+1015,English,2.8,0,4,2.6,,N/A,1147972
+1016,Art,3.0,1,4,4.4,,N/A,1165051
+1017,Mathematics,3.3,0,4,1.9,,N/A,1180154
+1018,Social,3.3,0,4,3.1,,N/A,1182147
+1019,Social,1.5,1,4,4.5,,N/A,1182155
+1020,Social,2.5,0,4,4.2,Amazing lectures,N/A,1196392
+1021,Geography,1.8,0,4,3.9,,N/A,1208277
+1022,Behavioral,1.8,1,4,4.6,,N/A,1218485
+1023,Education,4.0,0,4,2.3,LOTS OF HOMEWORK,N/A,1223750
+1024,Urban,3.0,0,4,2.0,,N/A,1226016
+1025,Mathematics,3.0,0,4,2.6,,N/A,1227430
+1026,Geography,3.8,0,4,2.9,,N/A,1229168
+1027,Languages,4.3,0,4,4.3,,N/A,1236445
+1028,Languages,3.0,0,4,1.8,LECTURE HEAVY,N/A,1248780
+1029,Mathematics,1.8,1,4,4.0,,N/A,1287585
+1030,Writing,3.0,1,4,4.6,Gives good feedback,N/A,1304273
+1031,Anthropology,2.0,1,4,4.9,,N/A,1307211
+1032,Psychology,1.8,1,4,4.3,,N/A,1317928
+1033,Biology,2.8,0,4,4.5,,N/A,1379998
+1034,Psychology,3.5,0,4,3.1,,N/A,1388695
+1035,Theater,1.8,0,4,4.4,Participation matters,N/A,1392485
+1036,Educational,3.3,0,4,1.8,LOTS OF HOMEWORK,N/A,1411007
+1037,Business,4.3,0,4,2.1,Get ready to read,N/A,1411099
+1038,Communication,4.3,0,4,1.9,LECTURE HEAVY,N/A,1416339
+1039,Art,3.5,0,4,3.5,,N/A,1416817
+1040,Statistics,2.8,1,4,5.0,Skip class You wont pass,N/A,1429892
+1041,Chemistry,4.0,0,4,3.4,,N/A,1439937
+1042,Ethnic,2.8,1,4,4.6,,N/A,1442258
+1043,History,3.8,0,4,1.9,LECTURE HEAVY,N/A,1479615
+1044,Mathematics,3.0,0,4,2.5,LOTS OF HOMEWORK,N/A,1481504
+1045,English,2.5,0,4,3.4,SO MANY PAPERS,N/A,1481856
+1046,Bioengineering,4.8,0,4,1.0,Tough Grader,N/A,1498142
+1047,Bioengineering,2.8,0,4,4.9,,N/A,1510505
+1048,Economics,1.5,1,4,4.9,,N/A,1519485
+1049,Psychology,2.3,1,4,3.8,,N/A,1520841
+1050,Philosophy,3.0,0,4,3.5,BEWARE OF POP QUIZZES,N/A,1522402
+1051,Mathematics,4.3,0,4,1.0,,N/A,1527826
+1052,Biology,3.8,0,4,3.6,LOTS OF HOMEWORK,N/A,1538024
+1053,Languages,4.0,0,4,2.5,Participation matters,N/A,1546921
+1054,Economics,1.0,0,4,4.5,Participation matters,N/A,1566480
+1055,Physics,2.5,0,4,3.4,Gives good feedback,N/A,1567734
+1056,Chemistry,3.0,0,4,2.8,Hilarious,N/A,1581639
+1057,Communication,2.0,1,4,4.4,,N/A,1592000
+1058,Architecture,2.0,0,4,4.4,GROUP PROJECTS,N/A,1594368
+1059,Mathematics,3.0,1,4,4.5,,N/A,1605485
+1060,Communication,2.0,0,4,4.5,BEWARE OF POP QUIZZES,N/A,1606370
+1061,Music,3.0,0,4,3.5,Caring,N/A,1608230
+1062,Biology,2.3,0,4,2.8,LECTURE HEAVY,N/A,1627867
+1063,Mathematics,3.8,0,4,4.9,Amazing lectures,N/A,1633936
+1064,Civil,2.0,0,4,3.8,Inspirational,N/A,1635850
+1065,Mathematics,2.5,1,4,3.8,Tough Grader,N/A,1636044
+1066,Psychology,3.5,1,4,4.0,Participation matters,N/A,1654517
+1067,Not,1.8,0,4,3.9,,N/A,1667660
+1068,Communication,4.0,0,4,2.9,Tough Grader,N/A,1671370
+1069,Languages,3.8,0,4,2.6,Get ready to read,N/A,1678149
+1070,Languages,1.5,0,4,5.0,,N/A,1678153
+1071,Business,2.0,1,4,4.8,,N/A,1679533
+1072,History,4.8,0,4,2.0,,N/A,1706155
+1073,Communication,3.5,0,4,2.8,Tough Grader,N/A,1712559
+1074,Mathematics,3.0,1,4,5.0,Gives good feedback,N/A,1713989
+1075,Business,2.0,0,4,4.4,Clear grading criteria,N/A,1720985
+1076,Psychology,1.8,1,4,5.0,,N/A,1731900
+1077,Mathematics,4.3,0,4,2.6,,N/A,1750438
+1078,Computer,3.8,0,4,3.8,Amazing lectures,N/A,1754225
+1079,Mathematics,2.8,0,4,2.0,BEWARE OF POP QUIZZES,N/A,1768516
+1080,Mathematics,3.5,0,4,1.1,,N/A,1787208
+1081,Family,4.3,0,4,2.5,,N/A,1789491
+1082,Science,2.8,0,4,3.8,Caring,N/A,1790214
+1083,Mathematics,1.8,1,4,5.0,Tough Grader,N/A,1795489
+1084,Communication,4.8,0,4,1.3,,N/A,1798464
+1085,Biology,2.5,0,4,4.3,,N/A,1809025
+1086,Exercise,2.3,1,4,3.8,,N/A,1818474
+1087,Communication,4.3,0,4,3.9,,N/A,1819154
+1088,Biology,4.0,0,4,3.0,Amazing lectures,N/A,1840477
+1089,Computer,3.5,0,4,3.9,LOTS OF HOMEWORK,N/A,1845993
+1090,Communication,2.3,1,4,4.9,EXTRA CREDIT,N/A,1851350
+1091,Fine,2.5,0,4,4.7,Hilarious,N/A,1851359
+1092,Writing,3.3,0,4,4.4,Gives good feedback,N/A,1862626
+1093,Mathematics,3.3,0,4,2.8,Skip class You wont pass,N/A,1864343
+1094,Statistics,3.3,0,4,3.4,,N/A,1867724
+1095,Marketing,2.5,1,4,4.0,,N/A,1870294
+1096,Anthropology,3.8,0,4,3.5,Tough Grader,N/A,1870352
+1097,Economics,2.3,0,4,4.5,Gives good feedback,N/A,1872482
+1098,Finance,3.8,0,4,2.1,Tough Grader,N/A,1879866
+1099,Mechanical,3.0,0,4,4.8,Tough Grader,N/A,1886227
+1100,Psychology,3.0,0,4,3.8,Tough Grader,N/A,1893363
+1101,Business,1.0,1,4,4.9,Hilarious,N/A,1895996
+1102,Mathematics,4.0,1,4,4.5,Skip class You wont pass,N/A,1917560
+1103,Languages,2.0,0,4,4.5,Caring,N/A,1917806
+1104,Mechanical,3.5,0,4,2.8,GROUP PROJECTS,N/A,1918334
+1105,Art,1.8,1,4,3.5,Get ready to read,N/A,1918481
+1106,Mathematics,4.0,0,4,3.8,LOTS OF HOMEWORK,N/A,1920579
+1107,English,2.8,0,4,4.9,Amazing lectures,N/A,1929060
+1108,Education,2.8,0,4,4.2,Participation matters,N/A,1949949
+1109,Art,3.5,0,4,1.8,Skip class You wont pass,N/A,1954923
+1110,Science,3.0,1,4,3.4,LECTURE HEAVY,N/A,1965060
+1111,Communication,2.7,0,4,5.0,Respected,N/A,1968561
+1112,Geology,4.5,1,4,4.0,LOTS OF HOMEWORK,N/A,1972200
+1113,Exercise,2.5,0,4,4.4,Gives good feedback,N/A,1987948
+1114,Gender,3.5,0,4,2.0,Get ready to read,N/A,1994055
+1115,Psychology,1.8,0,4,4.8,EXTRA CREDIT,N/A,1994779
+1116,Computer,2.8,1,4,4.2,EXTRA CREDIT,N/A,2009339
+1117,Theater,2.5,0,4,4.1,Participation matters,N/A,2010655
+1118,Chemical,3.5,0,4,4.9,LOTS OF HOMEWORK,N/A,2014707
+1119,Political,2.5,0,4,5.0,Gives good feedback,N/A,2019612
+1120,Park,4.3,0,4,1.4,Tough Grader,N/A,2023671
+1121,Writing,2.0,1,4,4.6,Gives good feedback,N/A,2024292
+1122,Education,1.8,1,4,5.0,Respected,N/A,2026127
+1123,Chemistry,2.5,1,4,5.0,Hilarious,N/A,2027412
+1124,Accounting,4.3,0,4,4.0,Get ready to read,N/A,2030985
+1125,Business,1.3,0,4,2.8,Participation matters,N/A,2030987
+1126,Chemistry,3.8,0,4,4.3,ACCESSIBLE OUTSIDE CLASS,N/A,2031685
+1127,Humanities,2.7,0,4,4.0,Participation matters,N/A,2033519
+1128,Management,2.8,0,4,3.6,Clear grading criteria,N/A,2036243
+1129,Fine,3.3,1,4,4.2,Caring,N/A,2039159
+1130,Economics,3.0,0,4,3.0,Participation matters,N/A,2046618
+1131,Biochemistry,3.0,0,4,2.5,Participation matters,N/A,2058229
+1132,Psychology,2.7,1,4,4.9,Gives good feedback,N/A,2060131
+1133,Psychology,2.8,0,4,3.6,Tough Grader,N/A,2063456
+1134,Mathematics,3.5,1,4,3.9,LOTS OF HOMEWORK,N/A,2071461
+1135,Anthropology,3.5,0,4,3.5,Tough Grader,N/A,2073113
+1136,Writing,1.5,0,4,5.0,Gives good feedback,N/A,2074123
+1137,Park,3.0,0,4,3.0,Get ready to read,N/A,2079807
+1138,Writing,1.8,1,4,4.0,Gives good feedback,N/A,2082586
+1139,Economics,2.5,1,4,3.9,LECTURE HEAVY,N/A,2089194
+1140,Bioengineering,3.5,0,4,3.5,Tough Grader,N/A,2089256
+1141,Computer,2.8,0,4,4.4,Skip class You wont pass,N/A,2089999
+1142,Geology,4.2,0,4,2.1,Tough Grader,N/A,2094198
+1143,Sociology,3.8,1,4,4.8,Tough Grader,N/A,2094681
+1144,Mathematics,3.5,0,4,2.3,LOTS OF HOMEWORK,N/A,2096179
+1145,Computer,3.7,0,4,4.9,Caring,N/A,2136878
+1146,Psychology,3.5,0,4,2.8,Tough Grader,N/A,2161782
+1147,English,2.5,0,4,4.0,Participation matters,N/A,2169708
+1148,Languages,3.0,0,4,3.5,Skip class You wont pass,N/A,1957480
+1149,Economics,3.5,1,4,3.5,Gives good feedback,N/A,2136850
+1150,Languages,1.5,0,4,4.9,Gives good feedback,N/A,2099604
+1151,Engineering,3.3,0,3,4.8,,N/A,131707
+1152,Graphic,2.7,0,3,4.8,,N/A,142434
+1153,Engineering,2.7,0,3,2.5,,N/A,205840
+1154,Nursing,3.3,0,3,4.7,,N/A,261082
+1155,Communication,3.0,0,3,3.3,,N/A,261098
+1156,Communication,4.0,0,3,4.5,,N/A,261137
+1157,Geography,3.0,0,3,3.0,,N/A,261387
+1158,Languages,3.3,0,3,4.5,,N/A,261676
+1159,Education,2.0,1,3,5.0,,N/A,261683
+1160,Business,2.3,0,3,3.0,,N/A,263255
+1161,Engineering,3.3,0,3,3.3,Tough Grader,N/A,268143
+1162,Computer,4.7,0,3,4.8,,N/A,270033
+1163,History,4.3,0,3,4.3,,N/A,346633
+1164,Computer,2.3,0,3,4.5,,N/A,445033
+1165,Languages,2.3,1,3,4.3,,N/A,463893
+1166,Languages,3.0,1,3,5.0,,N/A,493917
+1167,History,3.7,0,3,5.0,,N/A,521223
+1168,Health,2.3,0,3,4.2,,N/A,573832
+1169,Philosophy,3.7,0,3,3.8,,N/A,591830
+1170,English,3.0,1,3,3.7,,N/A,594637
+1171,English,3.7,0,3,3.8,,N/A,607173
+1172,Communication,2.3,0,3,3.0,,N/A,648752
+1173,Management,3.0,0,3,2.0,Tough Grader,N/A,656325
+1174,Music,4.0,0,3,4.7,,N/A,682134
+1175,Social,2.7,0,3,1.5,,N/A,689118
+1176,Social,3.0,1,3,2.9,Gives good feedback,N/A,689125
+1177,Engineering,4.0,1,3,4.8,,N/A,691966
+1178,Sociology,1.3,1,3,4.3,,N/A,692875
+1179,Psychology,4.0,1,3,4.8,,N/A,700252
+1180,Mathematics,4.0,0,3,2.3,,N/A,709073
+1181,Computer,3.3,0,3,4.5,Clear grading criteria,N/A,710721
+1182,Biology,2.3,0,3,4.8,Gives good feedback,N/A,717879
+1183,Political,3.3,0,3,4.2,,N/A,719035
+1184,Mathematics,2.0,0,3,4.8,,N/A,719843
+1185,Communication,2.7,0,3,4.2,EXTRA CREDIT,N/A,721746
+1186,Computer,3.7,0,3,3.3,Skip class You wont pass,N/A,726041
+1187,Hospitality,2.0,0,3,4.3,,N/A,733464
+1188,Anthropology,3.7,0,3,2.5,,N/A,733699
+1189,Political,2.3,0,3,4.7,,N/A,738863
+1190,Mathematics,4.3,0,3,1.5,,N/A,749081
+1191,Communication,2.0,1,3,4.2,,N/A,772502
+1192,Languages,2.0,0,3,4.7,,N/A,773275
+1193,Exercise,2.7,1,3,4.0,,N/A,780969
+1194,Economics,2.7,1,3,5.0,,N/A,790506
+1195,Fine,3.0,1,3,5.0,,N/A,796978
+1196,Political,2.0,0,3,2.8,,N/A,811057
+1197,Law,3.3,1,3,5.0,,N/A,813220
+1198,English,2.7,1,3,4.0,Participation matters,N/A,815158
+1199,Exercise,2.7,0,3,2.8,,N/A,819811
+1200,Marketing,2.3,0,3,1.2,,N/A,825614
+1201,Languages,3.7,0,3,4.5,,N/A,831060
+1202,Computer,3.7,0,3,3.3,Gives good feedback,N/A,836302
+1203,Law,3.7,0,3,4.0,,N/A,836606
+1204,Psychology,3.7,0,3,2.7,,N/A,843539
+1205,Mathematics,2.7,1,3,5.0,,N/A,875899
+1206,Computer,4.3,0,3,2.0,,N/A,910360
+1207,Languages,4.3,1,3,4.8,,N/A,917583
+1208,Mathematics,2.7,0,3,2.0,,N/A,922051
+1209,Gender,2.0,0,3,5.0,,N/A,928144
+1210,Languages,1.7,1,3,4.7,,N/A,928671
+1211,Chemistry,3.3,0,3,5.0,,N/A,932453
+1212,Not,5.0,0,3,3.0,,N/A,979768
+1213,Physics,4.0,0,3,3.3,Skip class You wont pass,N/A,982282
+1214,Mathematics,3.7,0,3,3.9,LECTURE HEAVY,N/A,1003845
+1215,Computer,3.0,0,3,4.7,,N/A,1037905
+1216,Mathematics,2.7,0,3,3.3,,N/A,1043152
+1217,Art,3.0,1,3,3.8,Participation matters,N/A,1054741
+1218,Accounting,4.0,0,3,2.8,,N/A,1073004
+1219,Chemistry,2.7,0,3,1.2,,N/A,1074035
+1220,Exercise,3.7,0,3,2.3,,N/A,1088320
+1221,Languages,2.3,1,3,4.8,,N/A,1097968
+1222,Physics,3.7,0,3,3.3,,N/A,1102305
+1223,Writing,1.7,0,3,4.3,,N/A,1107376
+1224,Languages,2.7,0,3,2.2,,N/A,1121951
+1225,Political,2.7,0,3,5.0,,N/A,1125063
+1226,Finance,2.7,0,3,5.0,,N/A,1127419
+1227,Political,3.3,0,3,4.0,,N/A,1131933
+1228,Economics,4.0,0,3,2.2,Get ready to read,N/A,1134758
+1229,Communication,2.7,1,3,5.0,,N/A,1135044
+1230,Communication,3.0,0,3,4.7,,N/A,1162423
+1231,Languages,3.0,0,3,1.5,,N/A,1171133
+1232,Social,3.3,0,3,3.7,,N/A,1182156
+1233,Languages,3.7,1,3,4.7,,N/A,1188940
+1234,Social,4.0,0,3,1.2,,N/A,1196395
+1235,Communication,3.3,1,3,4.2,,N/A,1230242
+1236,Biology,1.7,0,3,4.5,,N/A,1234826
+1237,Computer,4.0,0,3,1.3,Tough Grader,N/A,1274003
+1238,English,2.0,1,3,4.7,Caring,N/A,1290355
+1239,Electrical,3.7,1,3,4.7,,N/A,1303827
+1240,Anthropology,3.0,0,3,2.8,,N/A,1311424
+1241,Theater,3.0,1,3,4.0,,N/A,1319980
+1242,Psychology,2.0,1,3,3.3,,N/A,1322845
+1243,Anthropology,3.7,0,3,1.5,LECTURE HEAVY,N/A,1333415
+1244,Sociology,3.3,0,3,3.5,,N/A,1342437
+1245,Statistics,4.7,0,3,3.7,Amazing lectures,N/A,1344704
+1246,History,5.0,0,3,2.3,Tough Grader,N/A,1349941
+1247,Electrical,4.0,0,3,3.5,LECTURE HEAVY,N/A,1361185
+1248,Fine,2.7,0,3,2.3,,N/A,1364991
+1249,Meteorology,2.3,0,3,3.2,Tough Grader,N/A,1369876
+1250,Languages,4.3,1,3,3.3,Participation matters,N/A,1380705
+1251,Exercise,2.3,0,3,3.7,,N/A,1387741
+1252,Writing,4.3,0,3,3.7,,N/A,1388878
+1253,Mathematics,2.3,0,3,5.0,Caring,N/A,1395920
+1254,Chemistry,3.7,0,3,2.2,Tough Grader,N/A,1433558
+1255,Marketing,2.7,0,3,3.2,,N/A,1435985
+1256,Medicine,1.7,1,3,5.0,,N/A,1449465
+1257,Communication,2.7,1,3,4.2,Participation matters,N/A,1455213
+1258,Economics,3.0,0,3,3.7,,N/A,1467615
+1259,Economics,1.7,0,3,4.0,,N/A,1468403
+1260,Communication,3.3,1,3,4.5,,N/A,1470043
+1261,Languages,1.0,0,3,3.8,,N/A,1474556
+1262,Family,1.7,1,3,5.0,,N/A,1474616
+1263,Nursing,3.3,1,3,5.0,,N/A,1477252
+1264,Writing,3.7,0,3,4.3,,N/A,1493046
+1265,Computer,2.0,0,3,3.2,,N/A,1499662
+1266,Mathematics,1.0,1,3,5.0,,N/A,1499787
+1267,Mathematics,3.0,0,3,2.8,,N/A,1501180
+1268,Theater,1.0,1,3,4.2,,N/A,1511328
+1269,Languages,3.3,1,3,4.8,,N/A,1511789
+1270,Languages,4.0,0,3,4.0,Respected,N/A,1512117
+1271,Law,4.0,0,3,3.8,,N/A,1518729
+1272,Political,4.0,1,3,4.7,Get ready to read,N/A,1519769
+1273,Geography,2.7,1,3,4.0,Clear grading criteria,N/A,1520128
+1274,Aerospace,2.3,1,3,5.0,,N/A,1524623
+1275,Psychology,3.0,0,3,4.0,,N/A,1572806
+1276,Sociology,2.7,0,3,4.8,Get ready to read,N/A,1574966
+1277,Communication,2.7,0,3,4.2,Participation matters,N/A,1576183
+1278,Languages,3.0,1,3,4.2,,N/A,1585717
+1279,Chemical,3.7,0,3,3.2,,N/A,1588301
+1280,Mathematics,3.3,0,3,2.9,Tough Grader,N/A,1599658
+1281,Computer,2.3,1,3,4.7,,N/A,1615202
+1282,Linguistics,2.3,1,3,3.8,Gives good feedback,N/A,1624603
+1283,Writing,3.0,1,3,3.8,,N/A,1630332
+1284,Film,3.3,0,3,3.5,Tough Grader,N/A,1631405
+1285,Economics,4.7,0,3,2.2,,N/A,1633744
+1286,Writing,2.3,1,3,4.7,,N/A,1638126
+1287,Family,1.7,1,3,4.5,Get ready to read,N/A,1640034
+1288,Fine,1.0,0,3,5.0,,N/A,1646088
+1289,Accounting,3.3,0,3,2.8,,N/A,1647686
+1290,Not,2.3,1,3,2.3,LOTS OF HOMEWORK,N/A,1649302
+1291,Mechanical,3.7,0,3,3.0,,N/A,1658853
+1292,Philosophy,1.3,0,3,2.7,,N/A,1658874
+1293,Art,3.7,1,3,4.3,,N/A,1662345
+1294,Electrical,4.3,0,3,3.5,Amazing lectures,N/A,1669317
+1295,Finance,4.0,0,3,3.3,,N/A,1671368
+1296,Sociology,3.0,0,3,4.8,,N/A,1673913
+1297,Communication,3.3,0,3,3.2,Respected,N/A,1675349
+1298,Communication,2.0,1,3,4.5,,N/A,1678159
+1299,Communication,3.7,0,3,2.7,Skip class You wont pass,N/A,1678160
+1300,Finance,4.3,0,3,3.0,Get ready to read,N/A,1679679
+1301,Materials,1.3,0,3,4.7,Amazing lectures,N/A,1683177
+1302,Languages,3.0,0,3,3.7,Amazing lectures,N/A,1685458
+1303,Political,3.7,0,3,4.2,Skip class You wont pass,N/A,1693769
+1304,Physics,3.7,0,3,3.8,Inspirational,N/A,1696934
+1305,Physics,3.3,1,3,3.7,,N/A,1714647
+1306,Languages,4.0,1,3,2.5,,N/A,1716578
+1307,Mathematics,3.3,0,3,3.9,Amazing lectures,N/A,1722866
+1308,Psychology,3.7,0,3,1.2,,N/A,1725171
+1309,Psychology,3.7,1,3,4.8,Gives good feedback,N/A,1725297
+1310,Mathematics,3.0,1,3,4.0,LOTS OF HOMEWORK,N/A,1725504
+1311,Philosophy,3.0,0,3,3.1,Get ready to read,N/A,1726904
+1312,Sociology,2.0,1,3,4.8,,N/A,1730926
+1313,Writing,2.0,1,3,4.7,Caring,N/A,1734881
+1314,Writing,2.3,0,3,3.7,,N/A,1737611
+1315,Geology,3.7,0,3,3.8,Tough Grader,N/A,1737902
+1316,Exercise,1.7,0,3,4.7,,N/A,1761828
+1317,Psychology,3.3,0,3,3.5,,N/A,1794739
+1318,Business,3.0,0,3,2.8,,N/A,1795574
+1319,Exercise,3.3,0,3,3.7,Inspirational,N/A,1796958
+1320,Psychology,3.0,0,3,4.8,,N/A,1801268
+1321,Not,2.7,0,3,3.5,Get ready to read,N/A,1806426
+1322,Languages,3.0,0,3,5.0,EXTRA CREDIT,N/A,1808284
+1323,Chemistry,4.3,1,3,3.2,,N/A,1812576
+1324,Sociology,3.0,0,3,3.8,,N/A,1816327
+1325,Writing,3.0,1,3,4.8,,N/A,1819829
+1326,Psychology,1.3,0,3,4.2,,N/A,1824304
+1327,History,3.3,1,3,4.7,Amazing lectures,N/A,1826298
+1328,Mathematics,3.3,0,3,3.5,LOTS OF HOMEWORK,N/A,1826692
+1329,Psychology,1.7,0,3,3.7,Caring,N/A,1827469
+1330,Political,3.0,0,3,3.5,Skip class You wont pass,N/A,1840721
+1331,English,1.7,0,3,4.0,EXTRA CREDIT,N/A,1844671
+1332,Biology,2.3,1,3,4.7,Get ready to read,N/A,1847212
+1333,Mathematics,3.3,1,3,4.8,,N/A,1850112
+1334,Psychology,1.3,1,3,4.5,Participation matters,N/A,1864753
+1335,Business,1.3,0,3,4.7,Skip class You wont pass,N/A,1868391
+1336,Writing,3.0,0,3,4.8,Caring,N/A,1871002
+1337,Computer,3.3,0,3,4.7,Participation matters,N/A,1887634
+1338,Management,3.0,0,3,4.3,Get ready to read,N/A,1892001
+1339,Business,2.3,1,3,5.0,,N/A,1892426
+1340,Health,1.7,1,3,5.0,Gives good feedback,N/A,1892769
+1341,Psychology,2.0,0,3,4.7,Tough Grader,N/A,1898360
+1342,Anthropology,3.0,0,3,2.8,Get ready to read,N/A,1904247
+1343,Art,3.3,1,3,3.8,Participation matters,N/A,1907634
+1344,Writing,2.3,0,3,2.4,Gives good feedback,N/A,1911654
+1345,Communication,3.0,0,3,4.8,Gives good feedback,N/A,1914546
+1346,Mathematics,3.7,0,3,2.7,Tough Grader,N/A,1920083
+1347,Anthropology,2.7,1,3,2.7,LECTURE HEAVY,N/A,1932272
+1348,Management,2.7,0,3,4.8,Gives good feedback,N/A,1941419
+1349,Mathematics,3.7,0,3,2.5,LOTS OF HOMEWORK,N/A,1944201
+1350,Political,1.7,0,3,4.5,Gives good feedback,N/A,1944560
+1351,Communication,3.3,0,3,3.0,Caring,N/A,1952528
+1352,Communication,2.7,0,3,2.7,Skip class You wont pass,N/A,1953051
+1353,Languages,2.0,0,3,4.8,Gives good feedback,N/A,1963510
+1354,Communication,1.0,0,3,4.8,Respected,N/A,1968651
+1355,Anthropology,2.3,0,3,3.9,Skip class You wont pass,N/A,1969229
+1356,Sociology,3.0,0,3,4.2,Participation matters,N/A,1969450
+1357,Economics,3.3,0,3,3.5,Tough Grader,N/A,1970964
+1358,Philosophy,3.0,1,3,4.3,Tough Grader,N/A,1971996
+1359,Business,1.3,0,3,4.8,Participation matters,N/A,1982889
+1360,History,3.3,1,3,5.0,Participation matters,N/A,1986584
+1361,Biology,4.3,0,3,2.3,Tough Grader,N/A,1991037
+1362,Philosophy,1.3,1,3,4.7,Gives good feedback,N/A,1994294
+1363,Chemistry,3.3,1,3,3.5,Tough Grader,N/A,1997529
+1364,Management,2.7,0,3,3.7,Participation matters,N/A,2001194
+1365,Linguistics,2.7,1,3,4.8,Amazing lectures,N/A,2003417
+1366,Electrical,3.0,0,3,5.0,EXTRA CREDIT,N/A,2007326
+1367,Mechanical,3.0,0,3,4.5,,N/A,2012592
+1368,Communication,2.3,1,3,5.0,Gives good feedback,N/A,2016138
+1369,Writing,2.7,0,3,2.5,Participation matters,N/A,2016284
+1370,Economics,2.0,0,3,3.7,LOTS OF HOMEWORK,N/A,2018225
+1371,Mathematics,2.7,1,3,4.7,LOTS OF HOMEWORK,N/A,2019571
+1372,Health,2.7,0,3,4.3,Tough Grader,N/A,2019991
+1373,Ethnic,4.0,0,3,4.0,Participation matters,N/A,2025936
+1374,English,2.7,0,3,3.7,BEWARE OF POP QUIZZES,N/A,2033127
+1375,Mathematics,3.3,0,3,3.5,Tough Grader,N/A,2033405
+1376,Select,2.3,0,3,3.3,Skip class You wont pass,N/A,2045308
+1377,Music,4.3,0,3,2.5,Gives good feedback,N/A,2047179
+1378,English,2.7,0,3,1.4,SO MANY PAPERS,N/A,2051220
+1379,Psychology,4.7,0,3,2.0,Skip class You wont pass,N/A,2052940
+1380,Mathematics,2.7,0,3,3.4,Participation matters,N/A,2060465
+1381,Ethnic,4.0,1,3,4.3,Tough Grader,N/A,2060978
+1382,Mathematics,5.0,0,3,1.0,LOTS OF HOMEWORK,N/A,2061403
+1383,Occupational,5.0,0,3,1.0,Tough Grader,N/A,2067996
+1384,Exercise,1.7,0,3,4.7,Tough Grader,N/A,2069741
+1385,Family,2.7,1,3,4.2,Gives good feedback,N/A,2074479
+1386,Exercise,1.3,1,3,4.3,Caring,N/A,2080017
+1387,Art,2.7,1,3,4.2,Gives good feedback,N/A,2081270
+1388,Economics,2.0,0,3,2.2,LECTURE HEAVY,N/A,2082044
+1389,Sociology,1.7,0,3,4.3,ACCESSIBLE OUTSIDE CLASS,N/A,2082610
+1390,Physical,1.3,0,3,3.6,GROUP PROJECTS,N/A,2093678
+1391,Business,4.0,1,3,4.8,Get ready to read,N/A,2094707
+1392,Writing,3.7,0,3,3.0,Participation matters,N/A,2098672
+1393,Mathematics,3.7,1,3,4.7,Caring,N/A,2099806
+1394,Music,3.0,0,3,2.5,Get ready to read,N/A,2102027
+1395,Psychology,2.3,1,3,4.0,Clear grading criteria,N/A,2124168
+1396,Film,2.0,1,3,4.5,Gives good feedback,N/A,2125838
+1397,Marketing,3.3,0,3,4.5,GROUP PROJECTS,N/A,2134038
+1398,Anthropology,3.3,0,3,2.1,Get ready to read,N/A,2134177
+1399,Business,2.3,0,3,5.0,Gives good feedback,N/A,2134380
+1400,Chemical,3.3,1,3,4.3,GROUP PROJECTS,N/A,2140656
+1401,Dance,3.3,1,3,4.5,Inspirational,N/A,2143977
+1402,Writing,3.7,0,3,3.5,SO MANY PAPERS,N/A,2145250
+1403,Computer,4.3,0,3,4.7,Skip class You wont pass,N/A,2146023
+1404,Communication,3.3,1,3,4.0,Tough Grader,N/A,2155330
+1405,Economics,3.0,0,3,3.3,Participation matters,N/A,2155615
+1406,Communication,2.3,1,3,4.7,Caring,N/A,2164149
+1407,Art,3.3,0,3,1.3,Get ready to read,N/A,2170977
+1408,Mathematics,2.0,0,3,2.3,LOTS OF HOMEWORK,N/A,2173430
+1409,Biology,4.7,0,3,1.0,LECTURE HEAVY,N/A,2174402
+1410,Accounting,3.3,1,3,4.7,Skip class You wont pass,N/A,2181819
+1411,Writing,2.3,1,3,5.0,Gives good feedback,N/A,2193249
+1412,Health,3.3,0,3,4.0,Tough Grader,N/A,2198707
+1413,Communication,3.7,1,3,5.0,Get ready to read,N/A,2198965
+1414,Marketing,2.7,0,3,4.7,Respected,N/A,2199195
+1415,Management,4.3,1,3,3.7,Tough Grader,N/A,2216875
+1416,Social,1.0,0,3,3.3,Caring,N/A,1968030
+1417,Geology,3.7,0,3,3.4,Skip class You wont pass,N/A,1549191
+1418,Biochemistry,3.0,0,3,2.3,LECTURE HEAVY,N/A,2080051
+1419,Geography,3.7,1,3,4.3,Gives good feedback,N/A,2211010
+1420,Physics,3.0,0,3,3.7,Participation matters,N/A,1567739
+1421,Law,4.7,0,3,2.9,Tough Grader,N/A,1452981
+1422,Biochemistry,4.3,0,3,1.5,LOTS OF HOMEWORK,N/A,2073565
+1423,Social,4.0,0,2,3.0,,N/A,52254
+1424,Medicine,4.0,1,2,4.0,,N/A,219659
+1425,Chemistry,5.0,1,2,2.0,,N/A,240609
+1426,Architecture,4.0,0,2,5.0,,N/A,261072
+1427,Languages,3.0,0,2,3.5,,N/A,261136
+1428,Education,3.0,1,2,5.0,,N/A,261341
+1429,History,3.5,1,2,3.5,,N/A,261665
+1430,Mathematics,3.0,1,2,3.8,,N/A,263989
+1431,Physics,3.5,0,2,2.5,,N/A,264173
+1432,Mathematics,3.5,0,2,4.0,,N/A,271074
+1433,Writing,4.0,0,2,3.5,,N/A,284776
+1434,Management,3.0,0,2,1.0,,N/A,346604
+1435,Languages,2.5,0,2,3.5,,N/A,368243
+1436,Political,3.0,0,2,3.3,,N/A,381463
+1437,History,4.0,0,2,3.5,,N/A,450296
+1438,Biology,3.5,0,2,3.3,,N/A,466170
+1439,Health,1.5,0,2,5.0,,N/A,545093
+1440,Biology,4.0,0,2,4.0,Get ready to read,N/A,631538
+1441,Sociology,2.5,0,2,4.8,,N/A,638087
+1442,Music,2.0,1,2,5.0,,N/A,642010
+1443,English,3.0,1,2,5.0,Inspirational,N/A,646026
+1444,Languages,3.0,1,2,5.0,,N/A,650967
+1445,Mathematics,3.0,0,2,4.0,,N/A,666488
+1446,Engineering,4.5,0,2,5.0,,N/A,670294
+1447,Physics,4.5,0,2,3.0,,N/A,672511
+1448,Anthropology,1.5,1,2,5.0,,N/A,678582
+1449,Communication,3.5,1,2,4.3,,N/A,681862
+1450,Psychology,1.5,0,2,5.0,Caring,N/A,689078
+1451,Social,2.5,0,2,2.8,,N/A,689114
+1452,Biology,3.0,1,2,4.8,,N/A,691794
+1453,Mathematics,3.5,0,2,3.5,,N/A,692690
+1454,Ethnic,2.5,0,2,3.8,,N/A,706187
+1455,English,3.0,1,2,3.8,,N/A,708270
+1456,Literature,3.0,0,2,5.0,,N/A,710548
+1457,Education,1.0,0,2,3.0,,N/A,716889
+1458,English,4.5,0,2,1.3,,N/A,722120
+1459,Engineering,4.0,0,2,4.5,,N/A,724419
+1460,Engineering,4.0,0,2,4.3,,N/A,724422
+1461,Mathematics,3.0,0,2,2.8,,N/A,733712
+1462,Ethnic,3.5,0,2,5.0,,N/A,737052
+1463,Health,3.5,0,2,1.0,,N/A,739770
+1464,Languages,2.0,0,2,4.8,,N/A,741952
+1465,Ethnic,4.0,0,2,3.5,,N/A,744265
+1466,Languages,4.0,0,2,4.3,,N/A,748006
+1467,History,2.5,1,2,4.5,,N/A,759231
+1468,English,2.0,1,2,5.0,,N/A,759369
+1469,Educational,2.0,0,2,4.5,,N/A,780370
+1470,Languages,2.0,0,2,5.0,,N/A,791311
+1471,Computer,2.5,0,2,5.0,,N/A,795547
+1472,Psychology,2.0,1,2,5.0,,N/A,812014
+1473,Mathematics,3.5,1,2,4.8,,N/A,812550
+1474,Psychology,3.0,0,2,4.0,,N/A,825782
+1475,Dance,4.0,0,2,5.0,,N/A,830087
+1476,Dance,1.0,0,2,2.8,,N/A,830092
+1477,Dance,4.0,0,2,1.8,,N/A,830093
+1478,English,3.0,0,2,4.3,,N/A,831062
+1479,Dance,2.0,0,2,2.3,,N/A,843536
+1480,Humanities,4.0,0,2,3.3,,N/A,859247
+1481,Educational,1.5,1,2,5.0,,N/A,884094
+1482,Communication,3.5,1,2,5.0,,N/A,888392
+1483,Writing,2.5,1,2,4.8,,N/A,889930
+1484,Economics,3.5,1,2,3.3,,N/A,898933
+1485,Biology,5.0,0,2,1.5,,N/A,903110
+1486,Mathematics,3.0,0,2,3.0,,N/A,912236
+1487,Park,3.0,0,2,3.0,,N/A,916672
+1488,Mathematics,2.0,1,2,5.0,,N/A,920302
+1489,Economics,2.5,0,2,4.0,,N/A,925840
+1490,Accounting,3.5,0,2,1.8,,N/A,940485
+1491,Statistics,3.0,0,2,1.5,,N/A,950867
+1492,Music,4.0,0,2,2.8,,N/A,954370
+1493,Humanities,2.5,0,2,3.0,,N/A,972634
+1494,Languages,3.5,0,2,3.0,,N/A,976576
+1495,Meteorology,1.5,0,2,4.5,,N/A,976929
+1496,Theater,1.0,1,2,5.0,,N/A,979212
+1497,Mathematics,3.0,0,2,3.5,,N/A,980210
+1498,Social,3.0,1,2,5.0,,N/A,982112
+1499,Social,2.5,0,2,2.5,LECTURE HEAVY,N/A,982119
+1500,Communication,2.5,1,2,4.8,Participation matters,N/A,990607
+1501,Philosophy,3.0,0,2,3.8,,N/A,995152
+1502,Art,4.0,0,2,3.8,Gives good feedback,N/A,1008606
+1503,Economics,2.5,0,2,4.8,,N/A,1041014
+1504,Mathematics,2.0,0,2,5.0,,N/A,1051178
+1505,Family,3.0,0,2,3.0,,N/A,1054816
+1506,Exercise,1.0,1,2,5.0,,N/A,1068505
+1507,Writing,2.0,1,2,4.0,,N/A,1069298
+1508,Writing,1.5,1,2,3.8,,N/A,1107375
+1509,Geography,1.5,1,2,4.3,,N/A,1112194
+1510,Mathematics,2.0,0,2,4.8,,N/A,1119244
+1511,History,4.0,1,2,3.0,,N/A,1134144
+1512,Finance,1.5,0,2,3.0,,N/A,1139826
+1513,Mathematics,4.5,0,2,2.5,,N/A,1150776
+1514,Mathematics,4.5,0,2,5.0,,N/A,1153512
+1515,Languages,2.5,1,2,4.0,,N/A,1156004
+1516,Geography,2.5,0,2,4.5,,N/A,1176121
+1517,Social,1.0,0,2,4.0,,N/A,1182154
+1518,Social,2.0,0,2,4.8,,N/A,1196393
+1519,Social,2.5,0,2,3.8,,N/A,1196396
+1520,Writing,2.0,1,2,4.3,,N/A,1201925
+1521,Communication,1.5,1,2,4.8,,N/A,1205492
+1522,Nursing,5.0,0,2,1.8,Get ready to read,N/A,1213880
+1523,Architecture,4.0,0,2,3.0,Gives good feedback,N/A,1214454
+1524,History,2.0,0,2,5.0,,N/A,1236247
+1525,Communication,3.5,0,2,3.5,,N/A,1241807
+1526,Psychology,3.5,1,2,4.5,,N/A,1260043
+1527,Social,3.0,0,2,4.0,Participation matters,N/A,1270503
+1528,Marketing,3.5,1,2,3.3,GROUP PROJECTS,N/A,1273691
+1529,Sociology,5.0,0,2,1.5,,N/A,1277223
+1530,Fine,2.5,0,2,5.0,Caring,N/A,1278565
+1531,Business,2.5,1,2,4.8,,N/A,1279320
+1532,History,4.5,1,2,4.5,,N/A,1294632
+1533,Theater,2.0,0,2,5.0,,N/A,1299087
+1534,Bioengineering,3.0,0,2,1.0,,N/A,1302109
+1535,Languages,2.5,0,2,5.0,,N/A,1303567
+1536,Educational,2.5,0,2,3.0,,N/A,1312854
+1537,Writing,4.5,0,2,3.0,,N/A,1342434
+1538,Chemistry,3.5,0,2,3.0,,N/A,1357878
+1539,Educational,3.5,0,2,4.5,,N/A,1358683
+1540,Mathematics,3.5,0,2,1.3,,N/A,1358766
+1541,Economics,5.0,0,2,2.8,,N/A,1378905
+1542,History,4.0,0,2,2.3,,N/A,1381637
+1543,Philosophy,2.5,0,2,3.5,,N/A,1382715
+1544,Accounting,2.5,0,2,3.0,,N/A,1386527
+1545,Anthropology,2.5,1,2,2.8,,N/A,1390508
+1546,Economics,2.5,0,2,2.3,,N/A,1395079
+1547,Health,3.5,0,2,3.3,Tough Grader,N/A,1408126
+1548,Languages,5.0,0,2,3.5,,N/A,1424748
+1549,Writing,3.5,0,2,3.3,,N/A,1429901
+1550,Family,2.0,0,2,4.3,,N/A,1436949
+1551,Communication,1.0,1,2,5.0,,N/A,1452288
+1552,Communication,4.0,0,2,4.0,,N/A,1465566
+1553,Accounting,2.0,1,2,4.8,,N/A,1467834
+1554,Ethnic,2.0,0,2,5.0,,N/A,1477957
+1555,Mathematics,4.0,1,2,4.8,,N/A,1478396
+1556,Biology,2.0,0,2,4.5,BEWARE OF POP QUIZZES,N/A,1478848
+1557,Communication,4.0,0,2,2.5,,N/A,1489509
+1558,Family,1.5,0,2,3.8,,N/A,1491288
+1559,Art,3.5,0,2,2.8,,N/A,1501293
+1560,Writing,2.5,1,2,4.8,Hilarious,N/A,1503486
+1561,Education,4.5,0,2,2.8,GROUP PROJECTS,N/A,1504744
+1562,Writing,3.0,0,2,2.5,,N/A,1506244
+1563,Music,2.5,0,2,3.0,Skip class You wont pass,N/A,1520406
+1564,Writing,3.0,1,2,3.5,,N/A,1523273
+1565,Writing,3.5,0,2,2.8,,N/A,1546450
+1566,Communication,2.5,0,2,4.8,Gives good feedback,N/A,1558572
+1567,Education,4.5,0,2,2.3,,N/A,1560082
+1568,Physics,4.0,0,2,3.0,Amazing lectures,N/A,1567750
+1569,Business,3.0,0,2,4.0,LOTS OF HOMEWORK,N/A,1571677
+1570,Psychology,4.5,0,2,2.3,,N/A,1586094
+1571,Education,2.0,0,2,3.0,,N/A,1592514
+1572,Architecture,3.5,0,2,4.3,Amazing lectures,N/A,1605365
+1573,Exercise,4.5,0,2,3.0,,N/A,1616625
+1574,Nursing,3.5,0,2,2.5,Gives good feedback,N/A,1620998
+1575,Health,1.0,0,2,4.5,,N/A,1636073
+1576,Music,1.0,0,2,5.0,Caring,N/A,1646733
+1577,Communication,3.0,0,2,3.5,,N/A,1650605
+1578,Health,1.5,0,2,4.8,,N/A,1661140
+1579,Physics,4.0,1,2,4.5,,N/A,1666813
+1580,Architecture,4.0,1,2,3.8,,N/A,1675310
+1581,Languages,1.5,0,2,4.8,,N/A,1676618
+1582,Mechanical,3.0,0,2,4.5,,N/A,1677225
+1583,Medicine,1.5,0,2,3.3,,N/A,1678115
+1584,Languages,2.5,1,2,4.3,,N/A,1678152
+1585,Communication,3.5,0,2,3.8,Get ready to read,N/A,1678169
+1586,Writing,4.0,0,2,4.8,,N/A,1682646
+1587,Writing,4.0,0,2,3.3,,N/A,1682648
+1588,Communication,1.5,0,2,3.8,,N/A,1688901
+1589,Exercise,3.5,0,2,3.0,,N/A,1698738
+1590,Economics,3.5,0,2,1.5,,N/A,1704366
+1591,Health,3.0,1,2,4.0,,N/A,1718766
+1592,Mathematics,3.0,0,2,5.0,,N/A,1718962
+1593,Nursing,4.0,0,2,5.0,,N/A,1720478
+1594,Nursing,4.0,0,2,5.0,,N/A,1720482
+1595,Political,2.0,0,2,3.5,,N/A,1726895
+1596,Computer,5.0,0,2,4.3,Skip class You wont pass,N/A,1728113
+1597,Mathematics,2.5,0,2,3.0,,N/A,1731934
+1598,Geology,3.5,0,2,4.5,,N/A,1737906
+1599,Gerontology,1.0,0,2,4.0,,N/A,1738231
+1600,Biochemistry,4.0,0,2,1.5,,N/A,1738322
+1601,Communication,3.5,0,2,4.5,Get ready to read,N/A,1739513
+1602,Political,4.5,0,2,2.5,,N/A,1740171
+1603,Psychology,2.5,0,2,3.0,,N/A,1740755
+1604,Finance,1.0,1,2,4.3,,N/A,1746181
+1605,Health,2.0,1,2,3.8,Tough Grader,N/A,1754441
+1606,Gender,1.5,1,2,4.8,,N/A,1759353
+1607,Writing,2.5,1,2,5.0,,N/A,1779177
+1608,Languages,3.0,1,2,4.8,,N/A,1783485
+1609,Biology,2.0,0,2,5.0,,N/A,1786892
+1610,Writing,2.0,0,2,4.3,,N/A,1791104
+1611,Communication,4.5,0,2,2.5,,N/A,1794362
+1612,Computer,2.5,0,2,4.5,Amazing lectures,N/A,1799826
+1613,Psychology,3.0,0,2,3.3,,N/A,1806425
+1614,Psychology,1.5,0,2,4.5,Clear grading criteria,N/A,1806433
+1615,Writing,1.5,0,2,4.5,,N/A,1814632
+1616,Philosophy,2.5,1,2,4.8,,N/A,1816280
+1617,Health,2.0,0,2,4.8,Respected,N/A,1825645
+1618,Educational,1.0,0,2,4.5,,N/A,1831507
+1619,Languages,1.5,0,2,4.3,Hilarious,N/A,1832636
+1620,History,3.5,0,2,3.0,,N/A,1843205
+1621,Economics,2.5,0,2,3.8,LOTS OF HOMEWORK,N/A,1843799
+1622,Languages,3.0,0,2,4.5,,N/A,1844369
+1623,Linguistics,2.0,0,2,5.0,Caring,N/A,1847306
+1624,Psychology,3.5,0,2,4.3,Gives good feedback,N/A,1853733
+1625,Psychology,2.0,0,2,4.5,,N/A,1854795
+1626,Sociology,2.0,0,2,4.3,,N/A,1869640
+1627,Writing,2.0,0,2,4.3,Participation matters,N/A,1871797
+1628,Business,2.0,0,2,3.0,,N/A,1880659
+1629,Writing,3.0,0,2,4.8,Gives good feedback,N/A,1881429
+1630,Computer,3.0,1,2,4.0,Amazing lectures,N/A,1887894
+1631,Management,3.0,0,2,1.0,,N/A,1892511
+1632,Art,1.5,0,2,3.5,LOTS OF HOMEWORK,N/A,1892768
+1633,Mathematics,2.5,1,2,4.5,,N/A,1892853
+1634,Communication,2.5,0,2,4.8,Get ready to read,N/A,1897805
+1635,Education,2.0,0,2,5.0,SO MANY PAPERS,N/A,1904249
+1636,Languages,1.0,0,2,4.5,,N/A,1904250
+1637,Economics,2.0,0,2,5.0,Skip class You wont pass,N/A,1905218
+1638,Philosophy,2.0,0,2,5.0,Clear grading criteria,N/A,1907299
+1639,Linguistics,4.0,0,2,2.5,,N/A,1908940
+1640,Art,2.5,0,2,5.0,Amazing lectures,N/A,1918236
+1641,History,3.0,0,2,4.8,Get ready to read,N/A,1921100
+1642,Psychology,2.0,0,2,4.8,Tough Grader,N/A,1922349
+1643,Writing,3.0,0,2,4.5,Caring,N/A,1924481
+1644,Mathematics,3.0,0,2,4.0,Caring,N/A,1924743
+1645,Nursing,3.0,0,2,3.0,Tough Grader,N/A,1925162
+1646,English,4.0,0,2,3.0,LOTS OF HOMEWORK,N/A,1932321
+1647,Sociology,3.5,0,2,5.0,Inspirational,N/A,1937150
+1648,Mathematics,2.5,0,2,4.8,Amazing lectures,N/A,1939549
+1649,Mathematics,3.5,0,2,2.5,LECTURE HEAVY,N/A,1940955
+1650,Sociology,1.5,0,2,5.0,EXTRA CREDIT,N/A,1943450
+1651,Educational,2.0,0,2,4.3,Participation matters,N/A,1949952
+1652,Humanities,2.5,0,2,5.0,Participation matters,N/A,1954155
+1653,Mathematics,3.0,0,2,2.3,Participation matters,N/A,1958480
+1654,Mathematics,3.0,0,2,3.0,,N/A,1968230
+1655,Film,2.0,0,2,3.5,LECTURE HEAVY,N/A,1968240
+1656,Ballet,2.5,1,2,3.8,Skip class You wont pass,N/A,1968675
+1657,English,3.0,0,2,4.5,Participation matters,N/A,1972325
+1658,Communication,2.5,0,2,4.5,Get ready to read,N/A,1972723
+1659,Languages,2.5,0,2,4.5,Participation matters,N/A,1972853
+1660,Languages,3.0,0,2,1.5,,N/A,1974213
+1661,English,3.5,0,2,3.3,Respected,N/A,1974850
+1662,Exercise,2.0,0,2,4.5,Gives good feedback,N/A,1976540
+1663,Chemistry,5.0,0,2,2.5,Tough Grader,N/A,1990054
+1664,Writing,4.0,0,2,4.5,Clear grading criteria,N/A,1990441
+1665,Sociology,3.5,0,2,4.5,Participation matters,N/A,1994042
+1666,Health,5.0,0,2,1.5,Get ready to read,N/A,2001783
+1667,Economics,3.5,0,2,3.0,,N/A,2003420
+1668,Political,2.0,0,2,4.3,EXTRA CREDIT,N/A,2005315
+1669,Economics,2.5,0,2,2.8,LECTURE HEAVY,N/A,2005570
+1670,Social,2.0,0,2,5.0,,N/A,2005713
+1671,Communication,2.5,0,2,4.0,Gives good feedback,N/A,2007402
+1672,English,1.0,0,2,5.0,Gives good feedback,N/A,2010829
+1673,Educational,3.0,0,2,3.0,Tough Grader,N/A,2011347
+1674,Computer,3.5,0,2,1.3,Tough Grader,N/A,2011842
+1675,Mechanical,3.5,0,2,4.0,Tough Grader,N/A,2012595
+1676,Chemical,3.5,0,2,4.0,Clear grading criteria,N/A,2013335
+1677,Gender,3.5,0,2,3.0,Get ready to read,N/A,2013569
+1678,Mathematics,2.5,0,2,2.5,EXTRA CREDIT,N/A,2015488
+1679,Economics,2.5,0,2,3.3,Caring,N/A,2016399
+1680,Law,3.5,0,2,3.3,Participation matters,N/A,2017098
+1681,Geology,3.5,0,2,4.0,Tough Grader,N/A,2018232
+1682,Family,5.0,0,2,1.0,Tough Grader,N/A,2027486
+1683,Exercise,4.5,0,2,1.5,Tough Grader,N/A,2030360
+1684,Accounting,3.0,0,2,4.5,Amazing lectures,N/A,2030733
+1685,Philosophy,2.5,1,2,2.8,Clear grading criteria,N/A,2031162
+1686,Mechanical,4.0,0,2,3.5,Tough Grader,N/A,2032565
+1687,Psychology,1.0,0,2,4.8,Gives good feedback,N/A,2034413
+1688,Art,3.0,0,2,2.3,Caring,N/A,2038863
+1689,Mathematics,4.0,0,2,2.5,LOTS OF HOMEWORK,N/A,2041452
+1690,Music,3.0,0,2,4.3,Get ready to read,N/A,2043493
+1691,Psychology,3.0,0,2,5.0,Inspirational,N/A,2057068
+1692,Behavioral,1.5,0,2,4.8,Hilarious,N/A,2057292
+1693,Humanities,2.5,1,2,3.5,Get ready to read,N/A,2057471
+1694,Business,4.5,0,2,2.5,LOTS OF HOMEWORK,N/A,2059718
+1695,Sociology,2.5,0,2,4.3,Clear grading criteria,N/A,2061256
+1696,Physical,3.5,0,2,3.8,Tough Grader,N/A,2062697
+1697,Physical,1.5,0,2,4.0,Skip class You wont pass,N/A,2066514
+1698,Army,1.0,0,2,5.0,Caring,N/A,2074314
+1699,Education,1.5,0,2,2.3,Participation matters,N/A,2074975
+1700,Mathematics,4.0,0,2,4.3,Skip class You wont pass,N/A,2075875
+1701,Social,1.5,0,2,5.0,Amazing lectures,N/A,2077972
+1702,Business,2.0,0,2,2.5,Clear grading criteria,N/A,2079111
+1703,Mathematics,5.0,0,2,1.0,Tough Grader,N/A,2079519
+1704,Communication,2.0,0,2,4.5,Participation matters,N/A,2080016
+1705,Psychology,3.5,0,2,4.5,Skip class You wont pass,N/A,2080710
+1706,Finance,4.0,1,2,5.0,Amazing lectures,N/A,2081605
+1707,Business,2.0,0,2,3.8,Skip class You wont pass,N/A,2082793
+1708,Art,3.0,1,2,4.0,Tough Grader,N/A,2083882
+1709,Music,3.5,0,2,4.8,Gives good feedback,N/A,2084634
+1710,Management,2.0,0,2,3.3,Get ready to read,N/A,2086970
+1711,Psychology,2.5,0,2,5.0,EXTRA CREDIT,N/A,2089368
+1712,Film,1.5,0,2,4.8,Gives good feedback,N/A,2089997
+1713,Foods,2.0,0,2,4.3,Gives good feedback,N/A,2094068
+1714,Educational,1.0,0,2,5.0,Respected,N/A,2095284
+1715,Civil,5.0,0,2,1.0,BEWARE OF POP QUIZZES,N/A,2096087
+1716,Languages,3.5,0,2,1.3,Get ready to read,N/A,2096164
+1717,Languages,3.0,0,2,3.0,Participation matters,N/A,2097865
+1718,Undergraduate,1.0,0,2,5.0,Inspirational,N/A,2097875
+1719,Writing,3.5,1,2,3.3,Skip class You wont pass,N/A,2099808
+1720,Mathematics,3.5,0,2,2.5,Tough Grader,N/A,2101080
+1721,Writing,2.0,1,2,3.8,Participation matters,N/A,2102020
+1722,Education,3.0,1,2,5.0,Gives good feedback,N/A,2109137
+1723,Political,3.0,0,2,4.3,Participation matters,N/A,2110255
+1724,Economics,3.0,0,2,4.3,Participation matters,N/A,2113347
+1725,Computer,4.5,0,2,1.5,LOTS OF HOMEWORK,N/A,2115069
+1726,Exercise,2.0,1,2,5.0,Hilarious,N/A,2120490
+1727,Languages,4.0,0,2,4.0,Participation matters,N/A,2121678
+1728,Mechanical,4.0,0,2,5.0,Amazing lectures,N/A,2122035
+1729,Electrical,4.5,0,2,3.0,TEST HEAVY,N/A,2122972
+1730,Business,2.0,0,2,4.8,Amazing lectures,N/A,2128098
+1731,Accounting,3.5,1,2,4.5,Get ready to read,N/A,2128108
+1732,Marketing,3.0,0,2,2.3,LOTS OF HOMEWORK,N/A,2128937
+1733,Philosophy,3.5,1,2,4.0,Get ready to read,N/A,2130109
+1734,Business,4.0,1,2,5.0,Inspirational,N/A,2130224
+1735,Architecture,3.0,1,2,4.3,Gives good feedback,N/A,2131041
+1736,Communication,3.5,0,2,3.8,Caring,N/A,2133367
+1737,Mathematics,3.0,0,2,3.0,Tough Grader,N/A,2133441
+1738,Mathematics,3.0,1,2,4.5,Clear grading criteria,N/A,2133511
+1739,English,3.5,1,2,3.5,Gives good feedback,N/A,2137825
+1740,Architecture,2.0,0,2,4.0,Gives good feedback,N/A,2142911
+1741,Architecture,3.5,0,2,4.3,Gives good feedback,N/A,2142915
+1742,Linguistics,3.5,0,2,4.3,Skip class You wont pass,N/A,2147474
+1743,Mathematics,2.5,1,2,5.0,Skip class You wont pass,N/A,2150864
+1744,Family,4.5,0,2,1.5,Tough Grader,N/A,2153495
+1745,Film,4.0,1,2,5.0,Gives good feedback,N/A,2156709
+1746,Communication,4.0,0,2,4.0,Gives good feedback,N/A,2158958
+1747,Occupational,3.5,0,2,2.0,Get ready to read,N/A,2161726
+1748,Gender,2.0,1,2,4.5,Get ready to read,N/A,2163151
+1749,Mathematics,3.0,0,2,5.0,Amazing lectures,N/A,2163595
+1750,Biology,3.5,1,2,5.0,LOTS OF HOMEWORK,N/A,2168252
+1751,Biology,2.5,0,2,3.0,Amazing lectures,N/A,2168473
+1752,Biology,3.5,0,2,3.0,LECTURE HEAVY,N/A,2169552
+1753,Mathematics,4.0,0,2,3.0,LOTS OF HOMEWORK,N/A,2170965
+1754,Computer,3.0,0,2,3.0,Respected,N/A,2173929
+1755,Mathematics,5.0,0,2,1.0,,N/A,2178803
+1756,Languages,4.0,0,2,1.5,Tough Grader,N/A,2179574
+1757,Business,1.0,1,2,3.5,Caring,N/A,2181541
+1758,Business,2.5,0,2,3.0,Tough Grader,N/A,2185682
+1759,Geography,3.0,0,2,3.0,Get ready to read,N/A,2192977
+1760,Mathematics,3.5,0,2,3.0,Get ready to read,N/A,2195934
+1761,Mathematics,3.5,0,2,1.5,EXTRA CREDIT,N/A,2197723
+1762,Humanities,3.0,0,2,4.5,Participation matters,N/A,2199994
+1763,Sociology,3.5,1,2,2.5,Amazing lectures,N/A,2201864
+1764,Mathematics,4.0,0,2,3.0,LOTS OF HOMEWORK,N/A,2204756
+1765,Economics,4.0,0,2,3.0,Caring,N/A,2206138
+1766,Ethnic,3.0,1,2,4.0,Inspirational,N/A,2213408
+1767,Business,3.0,0,2,5.0,BEWARE OF POP QUIZZES,N/A,2216702
+1768,Science,2.5,0,2,5.0,Gives good feedback,N/A,2216905
+1769,Writing,3.0,0,2,4.0,GROUP PROJECTS,N/A,2220869
+1770,Writing,4.0,0,2,2.8,GROUP PROJECTS,N/A,2138157
+1771,Gender,2.0,1,2,3.5,Participation matters,N/A,2221773
+1772,Mathematics,5.0,0,2,1.0,Get ready to read,N/A,2228584
+1773,Mathematics,1.5,0,2,5.0,Caring,N/A,1978287
+1774,Teaching,3.0,0,2,5.0,Gives good feedback,N/A,2161734
+1775,Geography,1.0,0,1,5.0,,N/A,345318
+1776,Mathematics,1.0,0,1,5.0,,N/A,498404
+1777,Psychology,3.0,0,1,4.5,,N/A,638533
+1778,Psychology,1.0,0,1,4.5,,N/A,641797
+1779,Geology,2.0,0,1,5.0,,N/A,649226
+1780,Psychology,2.0,1,1,4.5,,N/A,649832
+1781,Ethnic,4.0,0,1,1.5,,N/A,651905
+1782,Philosophy,3.0,0,1,1.0,,N/A,652302
+1783,Writing,2.0,0,1,2.5,,N/A,654228
+1784,Women's,1.0,1,1,4.5,,N/A,654230
+1785,Music,3.0,0,1,5.0,,N/A,658682
+1786,Languages,4.0,0,1,2.5,,N/A,666508
+1787,English,4.0,0,1,3.0,,N/A,666671
+1788,Architecture,5.0,0,1,2.0,,N/A,670218
+1789,Geography,1.0,0,1,5.0,,N/A,671463
+1790,Languages,3.0,0,1,3.0,,N/A,675514
+1791,Communication,2.0,0,1,3.5,,N/A,681865
+1792,Fine,3.0,0,1,5.0,,N/A,682343
+1793,Medicine,2.0,1,1,4.5,,N/A,683107
+1794,Engineering,4.0,0,1,4.5,,N/A,686307
+1795,Sociology,2.0,0,1,3.5,,N/A,689042
+1796,Humanities,4.0,1,1,3.5,,N/A,691040
+1797,Psychology,1.0,0,1,3.5,,N/A,691802
+1798,Psychology,5.0,1,1,5.0,,N/A,700254
+1799,Sociology,3.0,0,1,4.0,,N/A,705334
+1800,English,5.0,0,1,1.0,,N/A,706182
+1801,Psychology,3.0,1,1,5.0,,N/A,706189
+1802,Science,5.0,0,1,1.0,,N/A,707255
+1803,Fine,4.0,0,1,4.5,,N/A,711748
+1804,Engineering,4.0,0,1,3.5,,N/A,711770
+1805,Theater,5.0,0,1,4.5,,N/A,716749
+1806,Theater,4.0,0,1,4.0,,N/A,716754
+1807,Geology,3.0,0,1,4.5,,N/A,717741
+1808,Writing,3.0,0,1,5.0,,N/A,717874
+1809,Mathematics,5.0,0,1,5.0,,N/A,720536
+1810,Languages,1.0,0,1,5.0,,N/A,722147
+1811,Philosophy,3.0,0,1,4.5,,N/A,722265
+1812,Economics,4.0,0,1,4.5,,N/A,726222
+1813,Economics,3.0,0,1,1.0,Get ready to read,N/A,726223
+1814,Languages,2.0,0,1,4.5,,N/A,727958
+1815,Physics,3.0,0,1,4.5,,N/A,730880
+1816,Finance,4.0,0,1,2.0,,N/A,733700
+1817,Mathematics,2.0,1,1,4.5,,N/A,733701
+1818,Economics,3.0,0,1,3.5,,N/A,733704
+1819,Health,2.0,0,1,2.0,,N/A,739768
+1820,Army,3.0,0,1,5.0,,N/A,748026
+1821,Humanities,2.0,1,1,5.0,,N/A,751684
+1822,Communication,3.0,1,1,4.5,,N/A,757086
+1823,Mathematics,5.0,0,1,2.0,,N/A,764673
+1824,Writing,2.0,0,1,3.5,,N/A,772489
+1825,Information,3.0,0,1,4.0,,N/A,778127
+1826,Psychology,2.0,1,1,5.0,,N/A,786843
+1827,Medicine,2.0,0,1,5.0,,N/A,791376
+1828,Economics,2.0,1,1,5.0,,N/A,815286
+1829,Music,2.0,0,1,2.5,,N/A,817435
+1830,Educational,1.0,0,1,1.5,,N/A,823980
+1831,Dance,1.0,0,1,2.5,,N/A,830084
+1832,Dance,3.0,0,1,4.5,,N/A,830090
+1833,Psychology,2.0,0,1,5.0,,N/A,836068
+1834,Biology,5.0,0,1,1.0,,N/A,838020
+1835,Mathematics,4.0,0,1,5.0,,N/A,838329
+1836,English,3.0,0,1,3.5,,N/A,844983
+1837,Music,1.0,0,1,5.0,,N/A,858005
+1838,Mathematics,1.0,0,1,4.0,,N/A,867065
+1839,Economics,4.0,0,1,2.5,,N/A,867582
+1840,Economics,2.0,1,1,4.0,,N/A,868118
+1841,Communication,4.0,0,1,3.5,,N/A,871443
+1842,Exercise,4.0,0,1,2.0,,N/A,893287
+1843,Writing,4.0,0,1,1.5,,N/A,908421
+1844,Economics,1.0,0,1,1.0,,N/A,912127
+1845,Accounting,2.0,0,1,5.0,,N/A,918542
+1846,Engineering,3.0,0,1,1.0,,N/A,923103
+1847,Mathematics,4.0,0,1,1.0,,N/A,930077
+1848,English,3.0,1,1,5.0,,N/A,930369
+1849,Exercise,1.0,0,1,5.0,,N/A,930513
+1850,Biology,5.0,1,1,4.5,,N/A,930891
+1851,History,3.0,0,1,5.0,,N/A,935635
+1852,Mathematics,2.0,0,1,5.0,,N/A,941471
+1853,Languages,2.0,1,1,4.5,,N/A,941569
+1854,Mathematics,3.0,0,1,3.5,,N/A,946595
+1855,Languages,2.0,0,1,5.0,,N/A,946732
+1856,Urban,2.0,0,1,4.5,,N/A,946758
+1857,Music,5.0,0,1,1.0,,N/A,959282
+1858,Music,3.0,1,1,3.0,,N/A,959364
+1859,Music,4.0,1,1,5.0,,N/A,961889
+1860,Political,2.0,0,1,5.0,Participation matters,N/A,964089
+1861,Social,3.0,0,1,3.0,,N/A,982116
+1862,Exercise,4.0,1,1,5.0,,N/A,982315
+1863,Philosophy,3.0,1,1,5.0,,N/A,984518
+1864,Business,5.0,0,1,1.0,,N/A,993311
+1865,Music,2.0,0,1,5.0,,N/A,994131
+1866,Physics,4.0,1,1,4.5,,N/A,1010871
+1867,Philosophy,5.0,0,1,2.0,,N/A,1012949
+1868,Psychology,2.0,0,1,5.0,,N/A,1014232
+1869,Occupational,5.0,0,1,1.0,,N/A,1018459
+1870,Bioengineering,3.0,0,1,5.0,,N/A,1023768
+1871,Music,5.0,1,1,3.0,,N/A,1023967
+1872,Materials,2.0,0,1,5.0,,N/A,1027714
+1873,Chemical,2.0,0,1,4.5,,N/A,1031775
+1874,Sociology,2.0,0,1,3.0,,N/A,1048307
+1875,History,1.0,0,1,5.0,,N/A,1048359
+1876,Languages,2.0,1,1,3.5,,N/A,1049025
+1877,Art,4.0,0,1,5.0,,N/A,1054716
+1878,Art,1.0,1,1,4.0,,N/A,1054735
+1879,Gender,4.0,0,1,4.5,,N/A,1057607
+1880,English,3.0,0,1,2.5,,N/A,1076090
+1881,Business,2.0,0,1,5.0,,N/A,1077738
+1882,Languages,5.0,0,1,4.0,,N/A,1077741
+1883,Sociology,5.0,0,1,1.0,,N/A,1083375
+1884,Communication,2.0,0,1,4.5,,N/A,1083810
+1885,Ethnic,1.0,0,1,5.0,,N/A,1084575
+1886,History,3.0,0,1,4.0,,N/A,1085326
+1887,Statistics,5.0,0,1,3.5,,N/A,1089216
+1888,Exercise,5.0,0,1,1.0,,N/A,1093737
+1889,Psychology,2.0,0,1,5.0,,N/A,1102307
+1890,Physical,1.0,0,1,5.0,,N/A,1105099
+1891,Languages,4.0,1,1,3.5,,N/A,1108037
+1892,Anthropology,2.0,0,1,5.0,,N/A,1123794
+1893,Political,4.0,0,1,1.0,,N/A,1125068
+1894,Economics,4.0,0,1,4.0,,N/A,1134757
+1895,Mathematics,3.0,0,1,3.5,,N/A,1134860
+1896,Exercise,1.0,0,1,4.5,,N/A,1145420
+1897,Education,2.0,0,1,2.5,,N/A,1145738
+1898,Health,1.0,0,1,4.5,,N/A,1147809
+1899,English,1.0,1,1,5.0,,N/A,1165305
+1900,Continuing,5.0,0,1,2.5,,N/A,1168586
+1901,Mathematics,4.0,0,1,4.0,,N/A,1169772
+1902,Nursing,4.0,0,1,3.0,,N/A,1170476
+1903,Economics,4.0,0,1,2.5,,N/A,1170967
+1904,Economics,2.0,1,1,4.0,,N/A,1182373
+1905,Social,1.0,0,1,5.0,,N/A,1222170
+1906,Communication,1.0,0,1,3.0,,N/A,1245801
+1907,History,5.0,1,1,5.0,,N/A,1253466
+1908,Family,1.0,1,1,5.0,Clear grading criteria,N/A,1265677
+1909,Economics,4.0,0,1,2.5,,N/A,1270386
+1910,Social,5.0,0,1,2.0,,N/A,1270481
+1911,Biology,2.0,0,1,2.0,,N/A,1272441
+1912,Anthropology,4.0,0,1,4.0,,N/A,1280588
+1913,Psychology,1.0,0,1,5.0,,N/A,1284540
+1914,Psychology,3.0,1,1,4.0,,N/A,1284542
+1915,Computer,3.0,1,1,4.0,,N/A,1284623
+1916,Languages,1.0,1,1,3.5,,N/A,1289422
+1917,Geography,3.0,0,1,3.0,,N/A,1291423
+1918,Linguistics,2.0,0,1,5.0,,N/A,1302028
+1919,History,2.0,0,1,2.0,,N/A,1308950
+1920,Communication,2.0,0,1,3.5,,N/A,1308969
+1921,English,1.0,0,1,5.0,,N/A,1308971
+1922,Nursing,1.0,0,1,4.5,,N/A,1308974
+1923,Mathematics,5.0,0,1,1.5,,N/A,1310286
+1924,Psychology,2.0,0,1,4.0,,N/A,1310883
+1925,Accounting,4.0,0,1,4.0,,N/A,1311558
+1926,Music,3.0,1,1,5.0,,N/A,1312018
+1927,Writing,4.0,1,1,4.5,,N/A,1315447
+1928,Economics,3.0,0,1,4.5,,N/A,1318207
+1929,Physics,3.0,0,1,1.0,,N/A,1318912
+1930,Not,3.0,0,1,4.0,,N/A,1319978
+1931,Chemistry,3.0,0,1,4.0,,N/A,1346020
+1932,Mathematics,2.0,1,1,3.5,,N/A,1357093
+1933,Mathematics,5.0,0,1,1.0,,N/A,1358482
+1934,Languages,2.0,0,1,2.0,,N/A,1359307
+1935,Educational,2.0,1,1,5.0,,N/A,1369854
+1936,Management,3.0,0,1,3.0,,N/A,1370820
+1937,Mathematics,1.0,0,1,2.5,,N/A,1379241
+1938,Special,4.0,0,1,2.0,,N/A,1380551
+1939,Psychology,5.0,0,1,4.0,,N/A,1380710
+1940,Art,3.0,1,1,3.0,,N/A,1386667
+1941,Art,4.0,1,1,5.0,,N/A,1390258
+1942,Educational,3.0,0,1,2.0,,N/A,1392967
+1943,Writing,3.0,0,1,4.0,,N/A,1416119
+1944,Special,2.0,0,1,4.0,,N/A,1427017
+1945,Social,2.0,1,1,2.5,,N/A,1429607
+1946,Social,4.0,1,1,4.0,,N/A,1429634
+1947,English,3.0,0,1,4.5,,N/A,1439811
+1948,Anthropology,2.0,0,1,4.0,,N/A,1469926
+1949,Music,2.0,1,1,4.5,,N/A,1471236
+1950,Occupational,3.0,1,1,5.0,,N/A,1472487
+1951,Chemistry,3.0,0,1,4.5,Tough Grader,N/A,1489475
+1952,Linguistics,2.0,0,1,5.0,,N/A,1494187
+1953,Communication,1.0,0,1,3.5,,N/A,1494256
+1954,Languages,2.0,0,1,4.0,,N/A,1496699
+1955,Dance,2.0,0,1,2.5,,N/A,1496716
+1956,Mathematics,2.0,0,1,5.0,,N/A,1501281
+1957,Mathematics,2.0,0,1,5.0,,N/A,1505900
+1958,Management,1.0,1,1,5.0,,N/A,1508725
+1959,Exercise,4.0,1,1,4.0,,N/A,1511061
+1960,Economics,3.0,0,1,3.0,,N/A,1511326
+1961,Writing,3.0,0,1,5.0,,N/A,1520400
+1962,Health,3.0,1,1,3.5,,N/A,1525678
+1963,Linguistics,3.0,0,1,4.0,,N/A,1532594
+1964,Psychology,3.0,0,1,4.5,,N/A,1534014
+1965,Mathematics,5.0,0,1,1.0,,N/A,1541988
+1966,Theater,3.0,1,1,4.5,,N/A,1546329
+1967,Political,1.0,1,1,5.0,,N/A,1549140
+1968,Languages,4.0,0,1,5.0,,N/A,1555165
+1969,Philosophy,4.0,0,1,4.5,,N/A,1560343
+1970,Linguistics,1.0,0,1,5.0,,N/A,1560859
+1971,Art,3.0,1,1,5.0,,N/A,1560861
+1972,Marketing,3.0,0,1,3.5,,N/A,1561372
+1973,Physics,2.0,1,1,4.5,,N/A,1567736
+1974,Physics,1.0,1,1,5.0,,N/A,1567738
+1975,Physics,4.0,0,1,2.0,Tough Grader,N/A,1567740
+1976,Physics,2.0,0,1,4.0,,N/A,1567748
+1977,Physics,3.0,0,1,5.0,Gives good feedback,N/A,1567752
+1978,Education,1.0,0,1,3.0,,N/A,1576902
+1979,Engineering,1.0,0,1,5.0,,N/A,1581491
+1980,Park,3.0,0,1,3.5,,N/A,1584461
+1981,Mathematics,5.0,1,1,4.0,,N/A,1585536
+1982,Mathematics,4.0,0,1,3.0,,N/A,1591535
+1983,Art,5.0,0,1,1.0,,N/A,1592512
+1984,Mathematics,2.0,1,1,5.0,,N/A,1594612
+1985,Family,2.0,0,1,4.0,,N/A,1596803
+1986,Communication,1.0,0,1,5.0,,N/A,1597421
+1987,Communication,1.0,1,1,5.0,,N/A,1600170
+1988,Exercise,2.0,0,1,1.0,,N/A,1602415
+1989,Chemistry,4.0,0,1,3.0,,N/A,1604169
+1990,Arts,2.0,1,1,4.5,,N/A,1604698
+1991,Education,4.0,0,1,3.0,Tough Grader,N/A,1606023
+1992,Art,1.0,0,1,5.0,,N/A,1608112
+1993,Physical,2.0,0,1,4.0,,N/A,1608512
+1994,Biology,4.0,1,1,3.5,,N/A,1619348
+1995,Nursing,5.0,0,1,2.5,,N/A,1620995
+1996,Nursing,4.0,0,1,2.5,,N/A,1620996
+1997,Mathematics,2.0,1,1,4.5,,N/A,1621477
+1998,Exercise,1.0,0,1,5.0,,N/A,1627864
+1999,Communication,3.0,1,1,5.0,,N/A,1633990
+2000,Education,2.0,0,1,5.0,,N/A,1639946
+2001,Education,2.0,0,1,4.5,,N/A,1639952
+2002,Education,2.0,0,1,5.0,,N/A,1639953
+2003,History,1.0,1,1,4.0,,N/A,1640163
+2004,Mathematics,4.0,0,1,5.0,Tough Grader,N/A,1640263
+2005,Urban,3.0,0,1,3.5,,N/A,1642849
+2006,Finance,4.0,0,1,2.0,Tough Grader,N/A,1651771
+2007,Psychology,2.0,1,1,4.5,,N/A,1652084
+2008,Art,3.0,0,1,4.5,,N/A,1656548
+2009,Chemistry,3.0,0,1,3.0,SO MANY PAPERS,N/A,1664004
+2010,Business,3.0,0,1,1.0,,N/A,1665412
+2011,Mathematics,2.0,0,1,5.0,,N/A,1667964
+2012,Languages,2.0,0,1,4.0,,N/A,1668676
+2013,Communication,4.0,0,1,2.0,,N/A,1676070
+2014,Mathematics,1.0,1,1,4.0,,N/A,1676615
+2015,Languages,3.0,0,1,2.0,,N/A,1676617
+2016,Exercise,1.0,0,1,5.0,,N/A,1676707
+2017,Gender,4.0,0,1,5.0,,N/A,1680358
+2018,Chemistry,3.0,1,1,4.5,,N/A,1680615
+2019,Geography,5.0,0,1,1.0,Tough Grader,N/A,1681553
+2020,Materials,2.0,0,1,5.0,,N/A,1683168
+2021,Materials,1.0,0,1,4.0,,N/A,1683173
+2022,Chemistry,4.0,0,1,5.0,,N/A,1689837
+2023,Languages,5.0,0,1,4.0,,N/A,1690782
+2024,Exercise,1.0,0,1,5.0,,N/A,1694927
+2025,Bioengineering,4.0,0,1,4.0,,N/A,1696735
+2026,Physical,3.0,1,1,5.0,,N/A,1701469
+2027,Army,5.0,0,1,2.0,,N/A,1702242
+2028,Accounting,5.0,0,1,3.5,,N/A,1704024
+2029,Mathematics,4.0,0,1,3.0,,N/A,1704593
+2030,Linguistics,2.0,0,1,4.0,,N/A,1706411
+2031,Exercise,1.0,0,1,5.0,,N/A,1714544
+2032,Communication,3.0,1,1,4.0,,N/A,1718750
+2033,Fine,2.0,0,1,5.0,Get ready to read,N/A,1721709
+2034,Educational,1.0,0,1,5.0,,N/A,1721968
+2035,Mathematics,4.0,0,1,5.0,,N/A,1727692
+2036,Education,3.0,0,1,5.0,,N/A,1730617
+2037,Social,3.0,1,1,5.0,,N/A,1733389
+2038,History,2.0,0,1,1.0,,N/A,1733550
+2039,Accounting,2.0,1,1,5.0,,N/A,1736846
+2040,Family,2.0,1,1,5.0,,N/A,1738233
+2041,Theater,1.0,0,1,5.0,,N/A,1738903
+2042,Health,4.0,0,1,5.0,,N/A,1741599
+2043,Ballet,4.0,0,1,5.0,,N/A,1746741
+2044,Dance,2.0,0,1,4.0,,N/A,1751317
+2045,Computer,2.0,0,1,4.0,,N/A,1777584
+2046,Business,2.0,0,1,4.5,,N/A,1785303
+2047,Pharmacy,3.0,0,1,3.5,,N/A,1787467
+2048,Business,3.0,0,1,1.5,,N/A,1788279
+2049,Law,3.0,0,1,5.0,,N/A,1790965
+2050,Gender,3.0,1,1,4.5,Respected,N/A,1795275
+2051,Political,2.0,0,1,5.0,,N/A,1798345
+2052,Political,4.0,0,1,2.0,,N/A,1798346
+2053,Biology,4.0,0,1,4.0,Caring,N/A,1799694
+2054,English,3.0,0,1,5.0,,N/A,1804170
+2055,Social,3.0,0,1,4.5,GROUP PROJECTS,N/A,1807795
+2056,Biology,3.0,0,1,3.5,,N/A,1809027
+2057,Behavioral,3.0,0,1,2.0,,N/A,1809260
+2058,Political,5.0,1,1,1.5,,N/A,1814275
+2059,Exercise,4.0,0,1,3.0,,N/A,1818476
+2060,Music,2.0,0,1,4.5,,N/A,1818658
+2061,Gender,2.0,1,1,4.0,,N/A,1827018
+2062,Psychology,3.0,0,1,4.0,,N/A,1829647
+2063,Park,3.0,0,1,4.0,,N/A,1829650
+2064,Linguistics,3.0,0,1,2.5,,N/A,1831133
+2065,Political,3.0,0,1,5.0,,N/A,1831518
+2066,Mathematics,3.0,1,1,4.0,,N/A,1833440
+2067,Writing,4.0,0,1,1.0,,N/A,1843906
+2068,Art,3.0,0,1,3.0,,N/A,1861301
+2069,Economics,4.0,0,1,2.0,,N/A,1863139
+2070,Health,1.0,1,1,5.0,,N/A,1870078
+2071,Exercise,1.0,0,1,1.5,,N/A,1870119
+2072,Finance,4.0,0,1,5.0,,N/A,1871074
+2073,Geography,4.0,1,1,4.5,,N/A,1871930
+2074,Exercise,1.0,1,1,5.0,EXTRA CREDIT,N/A,1885014
+2075,Continuing,1.0,0,1,2.5,,N/A,1885466
+2076,Accounting,2.0,0,1,4.5,,N/A,1887237
+2077,Languages,3.0,0,1,5.0,,N/A,1892192
+2078,Languages,2.0,0,1,4.5,,N/A,1892199
+2079,Economics,3.0,1,1,5.0,Caring,N/A,1892637
+2080,Biology,1.0,1,1,5.0,,N/A,1893502
+2081,Anthropology,3.0,0,1,4.5,,N/A,1893538
+2082,Health,3.0,0,1,5.0,,N/A,1898131
+2083,Psychology,3.0,0,1,5.0,,N/A,1898354
+2084,Writing,3.0,0,1,5.0,Clear grading criteria,N/A,1899155
+2085,Finance,3.0,1,1,5.0,,N/A,1900597
+2086,Business,3.0,1,1,2.5,,N/A,1901510
+2087,Health,5.0,0,1,1.0,Tough Grader,N/A,1910737
+2088,Biology,3.0,0,1,3.0,,N/A,1912079
+2089,Biology,3.0,1,1,5.0,,N/A,1913656
+2090,Mathematics,2.0,0,1,3.0,,N/A,1914321
+2091,Fine,4.0,0,1,5.0,,N/A,1915104
+2092,Ethnic,2.0,0,1,2.5,,N/A,1916538
+2093,Health,2.0,1,1,5.0,,N/A,1916890
+2094,Linguistics,1.0,0,1,5.0,Clear grading criteria,N/A,1917804
+2095,Anthropology,3.0,0,1,1.0,Tough Grader,N/A,1919081
+2096,Bioengineering,1.0,0,1,5.0,Skip class You wont pass,N/A,1923737
+2097,Anthropology,1.0,0,1,3.5,Participation matters,N/A,1930930
+2098,Exercise,3.0,0,1,4.5,Hilarious,N/A,1938242
+2099,Anthropology,3.0,0,1,4.5,Clear grading criteria,N/A,1938610
+2100,English,3.0,0,1,3.0,,N/A,1952561
+2101,Pharmacy,5.0,0,1,1.0,,N/A,1954513
+2102,Art,3.0,0,1,4.5,,N/A,1954919
+2103,Exercise,1.0,0,1,4.0,,N/A,1956675
+2104,Mathematics,1.0,0,1,5.0,,N/A,1959272
+2105,Mathematics,3.0,0,1,5.0,,N/A,1959283
+2106,Economics,3.0,0,1,5.0,Skip class You wont pass,N/A,1965568
+2107,Mathematics,2.0,0,1,4.0,,N/A,1968952
+2108,Educational,4.0,0,1,2.5,,N/A,1968993
+2109,Mathematics,3.0,0,1,4.5,,N/A,1969112
+2110,Chemical,3.0,0,1,4.5,,N/A,1972858
+2111,Accounting,3.0,0,1,4.5,,N/A,1974423
+2112,Economics,2.0,0,1,4.5,,N/A,1974844
+2113,Computer,3.0,0,1,4.0,,N/A,1974851
+2114,Anthropology,3.0,0,1,4.0,Participation matters,N/A,1975944
+2115,Exercise,2.0,0,1,3.0,,N/A,1976535
+2116,Civil,1.0,0,1,5.0,,N/A,1980391
+2117,Biochemistry,3.0,0,1,5.0,Get ready to read,N/A,1981715
+2118,Mathematics,2.0,1,1,4.5,Respected,N/A,1987281
+2119,Mathematics,2.0,0,1,4.5,LOTS OF HOMEWORK,N/A,1989360
+2120,Biology,2.0,0,1,5.0,,N/A,1989877
+2121,Art,1.0,0,1,5.0,,N/A,1997002
+2122,Educational,3.0,0,1,4.5,,N/A,1997003
+2123,Sociology,1.0,0,1,5.0,,N/A,2004716
+2124,Economics,3.0,0,1,3.0,,N/A,2005668
+2125,Education,2.0,0,1,3.5,,N/A,2007974
+2126,Psychology,3.0,0,1,2.0,,N/A,2009162
+2127,Mathematics,5.0,0,1,2.0,,N/A,2009929
+2128,Mathematics,3.0,0,1,3.5,,N/A,2012147
+2129,Mathematics,3.0,0,1,3.5,,N/A,2015189
+2130,Business,4.0,0,1,4.5,,N/A,2016462
+2131,Film,2.0,0,1,5.0,,N/A,2017845
+2132,Mathematics,3.0,0,1,5.0,,N/A,2018243
+2133,Social,2.0,0,1,4.5,Amazing lectures,N/A,2019441
+2134,Management,3.0,0,1,1.0,,N/A,2019828
+2135,Business,5.0,0,1,1.0,,N/A,2021711
+2136,Writing,2.0,0,1,4.5,Gives good feedback,N/A,2022795
+2137,Political,4.0,0,1,5.0,,N/A,2024829
+2138,Education,2.0,0,1,5.0,Amazing lectures,N/A,2030053
+2139,Accounting,1.0,0,1,5.0,LOTS OF HOMEWORK,N/A,2030982
+2140,Chemistry,4.0,0,1,4.0,Tough Grader,N/A,2031211
+2141,Business,3.0,0,1,4.0,Participation matters,N/A,2033046
+2142,Art,4.0,0,1,2.5,LOTS OF HOMEWORK,N/A,2035877
+2143,Chemistry,3.0,0,1,3.5,Gives good feedback,N/A,2041758
+2144,Undergraduate,2.0,0,1,4.0,Hilarious,N/A,2044937
+2145,Civil,3.0,0,1,3.0,Tough Grader,N/A,2050394
+2146,Anthropology,3.0,0,1,4.0,Get ready to read,N/A,2053654
+2147,Business,5.0,0,1,2.0,Tough Grader,N/A,2060163
+2148,Education,2.0,0,1,4.0,Gives good feedback,N/A,2060943
+2149,Communication,1.0,0,1,5.0,Skip class You wont pass,N/A,2062252
+2150,Occupational,3.0,0,1,3.5,Clear grading criteria,N/A,2068002
+2151,Nursing,2.0,0,1,4.5,Get ready to read,N/A,2071466
+2152,Art,4.0,0,1,4.5,Gives good feedback,N/A,2072505
+2153,Physics,3.0,0,1,3.5,Respected,N/A,2074305
+2154,Exercise,3.0,0,1,5.0,GROUP PROJECTS,N/A,2078652
+2155,Dance,3.0,1,1,5.0,Inspirational,N/A,2081097
+2156,Biology,2.0,0,1,5.0,GROUP PROJECTS,N/A,2082759
+2157,Economics,3.0,0,1,3.5,Gives good feedback,N/A,2082975
+2158,Ballet,2.0,0,1,3.0,Skip class You wont pass,N/A,2083185
+2159,Biology,3.0,0,1,5.0,Gives good feedback,N/A,2083427
+2160,Geology,2.0,0,1,4.0,Respected,N/A,2083853
+2161,Mathematics,3.0,0,1,3.5,LOTS OF HOMEWORK,N/A,2083877
+2162,Bioengineering,2.0,0,1,1.5,Skip class You wont pass,N/A,2086346
+2163,Art,4.0,0,1,5.0,Caring,N/A,2088185
+2164,Mathematics,3.0,1,1,4.0,LOTS OF HOMEWORK,N/A,2089299
+2165,English,3.0,1,1,4.5,Hilarious,N/A,2089905
+2166,Mathematics,3.0,0,1,5.0,Gives good feedback,N/A,2090306
+2167,Civil,1.0,0,1,4.5,Hilarious,N/A,2090815
+2168,Mathematics,2.0,0,1,5.0,Caring,N/A,2091900
+2169,Business,5.0,0,1,1.0,GROUP PROJECTS,N/A,2092022
+2170,English,2.0,0,1,4.0,Get ready to read,N/A,2094939
+2171,Art,2.0,0,1,4.5,Participation matters,N/A,2095052
+2172,Communication,2.0,1,1,5.0,GROUP PROJECTS,N/A,2095584
+2173,Civil,4.0,1,1,3.0,GROUP PROJECTS,N/A,2095825
+2174,Computer,2.0,0,1,2.0,Skip class You wont pass,N/A,2095845
+2175,Fine,2.0,0,1,4.5,Tough Grader,N/A,2096217
+2176,Communication,3.0,0,1,4.5,Get ready to read,N/A,2096294
+2177,Languages,4.0,0,1,5.0,Get ready to read,N/A,2096707
+2178,Mechanical,3.0,1,1,4.5,Clear grading criteria,N/A,2098899
+2179,Mechanical,3.0,0,1,4.0,Clear grading criteria,N/A,2098905
+2180,Mechanical,3.0,1,1,5.0,Amazing lectures,N/A,2098911
+2181,Mathematics,2.0,1,1,4.0,Gives good feedback,N/A,2099180
+2182,Bioengineering,1.0,0,1,3.5,Clear grading criteria,N/A,2099718
+2183,Bioengineering,3.0,0,1,5.0,Gives good feedback,N/A,2099727
+2184,Writing,5.0,0,1,2.0,Tough Grader,N/A,2099795
+2185,Languages,3.0,0,1,5.0,Participation matters,N/A,2102448
+2186,Education,1.0,0,1,5.0,Participation matters,N/A,2103135
+2187,Film,2.0,0,1,5.0,Amazing lectures,N/A,2103221
+2188,Music,5.0,0,1,2.0,Skip class You wont pass,N/A,2106971
+2189,Writing,2.0,0,1,4.5,Gives good feedback,N/A,2110029
+2190,Business,2.0,1,1,5.0,EXTRA CREDIT,N/A,2110869
+2191,Family,3.0,1,1,5.0,Amazing lectures,N/A,2111181
+2192,Geology,3.0,0,1,5.0,Amazing lectures,N/A,2112750
+2193,Communication,4.0,1,1,4.0,Skip class You wont pass,N/A,2113223
+2194,Nursing,2.0,0,1,5.0,Clear grading criteria,N/A,2116400
+2195,Ethnic,4.0,0,1,2.5,Participation matters,N/A,2116974
+2196,Communication,4.0,0,1,2.0,Tough Grader,N/A,2117014
+2197,Civil,4.0,1,1,5.0,Participation matters,N/A,2119636
+2198,Economics,4.0,0,1,2.0,Gives good feedback,N/A,2121042
+2199,Social,3.0,0,1,1.0,GROUP PROJECTS,N/A,2121425
+2200,Communication,1.0,0,1,4.0,,N/A,2122049
+2201,Languages,2.0,0,1,4.0,Participation matters,N/A,2126441
+2202,Foods,1.0,1,1,5.0,EXTRA CREDIT,N/A,2129365
+2203,Languages,1.0,0,1,5.0,Gives good feedback,N/A,2129700
+2204,Philosophy,4.0,0,1,2.0,Get ready to read,N/A,2129785
+2205,Geography,3.0,0,1,5.0,Clear grading criteria,N/A,2130781
+2206,Special,3.0,0,1,4.5,Clear grading criteria,N/A,2131390
+2207,Mathematics,4.0,1,1,4.5,LOTS OF HOMEWORK,N/A,2132233
+2208,Communication,3.0,0,1,2.5,Tough Grader,N/A,2133479
+2209,Communication,3.0,0,1,4.5,Clear grading criteria,N/A,2133492
+2210,Ethnic,3.0,0,1,4.5,Amazing lectures,N/A,2133769
+2211,Management,3.0,0,1,5.0,Inspirational,N/A,2134335
+2212,Ethnic,3.0,0,1,5.0,Get ready to read,N/A,2134389
+2213,Communication,4.0,0,1,5.0,Inspirational,N/A,2134511
+2214,Education,2.0,1,1,3.0,Skip class You wont pass,N/A,2135720
+2215,Mathematics,2.0,0,1,4.5,Caring,N/A,2136636
+2216,Psychology,4.0,0,1,5.0,Get ready to read,N/A,2137623
+2217,Communication,3.0,1,1,5.0,Respected,N/A,2137810
+2218,Art,5.0,0,1,5.0,EXTRA CREDIT,N/A,2137832
+2219,Business,5.0,1,1,5.0,Inspirational,N/A,2138140
+2220,Accounting,3.0,0,1,4.5,Respected,N/A,2139909
+2221,Business,4.0,0,1,4.0,Participation matters,N/A,2140386
+2222,Education,3.0,0,1,5.0,Gives good feedback,N/A,2141154
+2223,Park,5.0,0,1,3.5,Gives good feedback,N/A,2144372
+2224,Mechanical,4.0,0,1,3.5,Get ready to read,N/A,2145237
+2225,Education,5.0,0,1,5.0,Participation matters,N/A,2145935
+2226,Theater,4.0,1,1,5.0,Skip class You wont pass,N/A,2147476
+2227,Occupational,3.0,0,1,1.0,Skip class You wont pass,N/A,2149911
+2228,Occupational,1.0,0,1,2.0,LOTS OF HOMEWORK,N/A,2149915
+2229,Chemical,3.0,0,1,4.0,Participation matters,N/A,2150762
+2230,Chemical,3.0,0,1,4.0,Skip class You wont pass,N/A,2150764
+2231,Management,4.0,1,1,5.0,Participation matters,N/A,2151519
+2232,Computer,3.0,0,1,4.0,Clear grading criteria,N/A,2153343
+2233,Mathematics,4.0,0,1,3.0,Tough Grader,N/A,2153712
+2234,Fine,3.0,1,1,4.0,Gives good feedback,N/A,2153773
+2235,Architecture,5.0,0,1,1.0,Tough Grader,N/A,2154802
+2236,Social,1.0,0,1,1.0,,N/A,2155414
+2237,Physical,3.0,0,1,4.0,Participation matters,N/A,2158355
+2238,Art,4.0,1,1,4.0,Get ready to read,N/A,2158955
+2239,Psychology,3.0,0,1,5.0,Gives good feedback,N/A,2160032
+2240,Chemistry,5.0,0,1,3.0,Tough Grader,N/A,2160612
+2241,Accounting,3.0,1,1,5.0,Amazing lectures,N/A,2160848
+2242,Occupational,3.0,0,1,1.0,SO MANY PAPERS,N/A,2161297
+2243,Bioengineering,4.0,0,1,4.0,GROUP PROJECTS,N/A,2162504
+2244,Health,4.0,0,1,4.0,Tough Grader,N/A,2167247
+2245,Economics,1.0,0,1,3.0,BEWARE OF POP QUIZZES,N/A,2167350
+2246,Languages,3.0,1,1,5.0,Skip class You wont pass,N/A,2167601
+2247,Psychology,4.0,1,1,5.0,Gives good feedback,N/A,2173212
+2248,Psychology,3.0,0,1,5.0,Gives good feedback,N/A,2173601
+2249,Education,2.0,0,1,5.0,Amazing lectures,N/A,2173711
+2250,Social,2.0,0,1,2.0,Skip class You wont pass,N/A,2173864
+2251,Anthropology,1.0,0,1,4.0,Respected,N/A,2175386
+2252,Management,1.0,0,1,5.0,Participation matters,N/A,2176063
+2253,Special,4.0,0,1,4.0,Get ready to read,N/A,2179889
+2254,Writing,2.0,0,1,2.0,Participation matters,N/A,2179997
+2255,Health,3.0,0,1,5.0,Participation matters,N/A,2182469
+2256,Social,2.0,1,1,4.0,Participation matters,N/A,2182586
+2257,Psychology,3.0,0,1,4.0,Amazing lectures,N/A,2184892
+2258,Writing,3.0,1,1,5.0,Gives good feedback,N/A,2184904
+2259,Computer,4.0,0,1,5.0,Get ready to read,N/A,2185686
+2260,Mathematics,3.0,0,1,1.0,Get ready to read,N/A,2188534
+2261,Philosophy,4.0,0,1,4.0,Get ready to read,N/A,2192994
+2262,Mathematics,4.0,0,1,1.0,GRADED BY FEW THINGS,N/A,2195846
+2263,Education,4.0,0,1,5.0,Gives good feedback,N/A,2195923
+2264,Mathematics,4.0,1,1,5.0,Amazing lectures,N/A,2196657
+2265,Statistics,3.0,0,1,3.0,Skip class You wont pass,N/A,2197629
+2266,Health,1.0,0,1,5.0,Clear grading criteria,N/A,2198704
+2267,Writing,3.0,0,1,4.0,Gives good feedback,N/A,2199702
+2268,Management,4.0,0,1,1.0,LOTS OF HOMEWORK,N/A,2200046
+2269,Electrical,4.0,0,1,5.0,Tough Grader,N/A,2201377
+2270,Mathematics,3.0,1,1,5.0,Gives good feedback,N/A,2201732
+2271,Chemistry,3.0,0,1,5.0,Caring,N/A,2202117
+2272,Writing,2.0,0,1,4.0,Gives good feedback,N/A,2203153
+2273,Humanities,3.0,0,1,1.0,,N/A,2203189
+2274,Biology,4.0,1,1,5.0,Amazing lectures,N/A,2205798
+2275,Languages,4.0,0,1,5.0,Get ready to read,N/A,2206153
+2276,Exercise,1.0,0,1,3.0,,N/A,2206163
+2277,Computer,4.0,0,1,1.0,Tough Grader,N/A,2206331
+2278,Statistics,5.0,0,1,1.0,TEST HEAVY,N/A,2206994
+2279,Architecture,4.0,0,1,4.0,Skip class You wont pass,N/A,2209616
+2280,Computer,4.0,0,1,5.0,LECTURE HEAVY,N/A,2209835
+2281,Business,2.0,0,1,4.0,ACCESSIBLE OUTSIDE CLASS,N/A,2210033
+2282,Army,2.0,0,1,5.0,Caring,N/A,2211269
+2283,Economics,4.0,0,1,2.0,TEST HEAVY,N/A,2212116
+2284,Art,1.0,0,1,5.0,Amazing lectures,N/A,2212373
+2285,Biology,3.0,0,1,3.0,,N/A,2213479
+2286,Biology,2.0,1,1,5.0,Participation matters,N/A,2213938
+2287,Communication,3.0,0,1,4.0,Skip class You wont pass,N/A,2214810
+2288,Engineering,3.0,0,1,3.0,Clear grading criteria,N/A,2215120
+2289,Mathematics,2.0,0,1,3.0,,N/A,2215814
+2290,Writing,2.0,0,1,4.0,,N/A,2215817
+2291,Mathematics,5.0,0,1,2.0,,N/A,2216087
+2292,Education,3.0,0,1,5.0,Respected,N/A,2216627
+2293,Mathematics,3.0,1,1,3.0,Skip class You wont pass,N/A,2217362
+2294,Biology,4.0,0,1,5.0,GROUP PROJECTS,N/A,2217944
+2295,Chemistry,4.0,0,1,5.0,Clear grading criteria,N/A,2218181
+2296,Languages,3.0,0,1,3.0,Tough Grader,N/A,2218423
+2297,Humanities,2.0,0,1,4.0,Gives good feedback,N/A,2218477
+2298,Nursing,4.0,0,1,2.0,Skip class You wont pass,N/A,2218487
+2299,Writing,4.0,0,1,5.0,Participation matters,N/A,2219081
+2300,Exercise,2.0,0,1,5.0,Clear grading criteria,N/A,2219258
+2301,Ethnic,2.0,0,1,5.0,Clear grading criteria,N/A,2219368
+2302,Mathematics,4.0,0,1,3.0,Gives good feedback,N/A,2219466
+2303,Occupational,3.0,0,1,5.0,Gives good feedback,N/A,2219729
+2304,Psychology,3.0,1,1,5.0,Amazing lectures,N/A,2219805
+2305,Writing,4.0,0,1,5.0,Clear grading criteria,N/A,2219822
+2306,Art,3.0,0,1,5.0,Gives good feedback,N/A,2220286
+2307,Arts,4.0,1,1,4.0,Tough Grader,N/A,2220287
+2308,Writing,3.0,0,1,5.0,Participation matters,N/A,2221153
+2309,Architecture,3.0,0,1,5.0,Skip class You wont pass,N/A,2221155
+2310,Art,4.0,0,1,3.0,Tough Grader,N/A,2221164
+2311,Statistics,1.0,0,1,1.0,,N/A,2222061
+2312,Chemical,4.0,0,1,3.0,LOTS OF HOMEWORK,N/A,2224269
+2313,Chemical,3.0,1,1,5.0,Inspirational,N/A,2224271
+2314,Languages,4.0,1,1,2.0,Tough Grader,N/A,2224278
+2315,Film,4.0,0,1,5.0,Get ready to read,N/A,2225428
+2316,Film,3.0,0,1,2.0,LECTURE HEAVY,N/A,2225433
+2317,Economics,4.0,0,1,5.0,Participation matters,N/A,2225576
+2318,Mechanical,4.0,1,1,4.0,Tough Grader,N/A,2227458
+2319,Psychology,4.0,0,1,5.0,Gives good feedback,N/A,2228996
+2320,English,3.0,0,1,5.0,GROUP PROJECTS,N/A,2231251
+2321,Linguistics,3.0,0,1,5.0,,N/A,1975515
+2322,Business,3.0,1,1,5.0,Amazing lectures,N/A,2235408
+2323,Physics,5.0,0,1,2.0,TEST HEAVY,N/A,2236711
+2324,Psychology,4.0,0,1,2.0,Get ready to read,N/A,2160933
+2325,Communication,5.0,0,1,1.0,Participation matters,N/A,2072546
+2326,Communication,5.0,0,1,1.0,Participation matters,N/A,237326
+2327,Communication,5.0,0,1,1.0,Participation matters,N/A,436206
+2328,Communication,5.0,0,1,1.0,Participation matters,N/A,512349
+2329,Communication,5.0,0,1,1.0,Participation matters,N/A,649833
+2330,Communication,5.0,0,1,1.0,Participation matters,N/A,659007
+2331,Communication,5.0,0,1,1.0,Participation matters,N/A,671490
+2332,Communication,5.0,0,1,1.0,Participation matters,N/A,683712
+2333,Communication,5.0,0,1,1.0,Participation matters,N/A,689015
+2334,Communication,5.0,0,1,1.0,Participation matters,N/A,689019
+2335,Communication,5.0,0,1,1.0,Participation matters,N/A,689030
+2336,Communication,5.0,0,1,1.0,Participation matters,N/A,689095
+2337,Communication,5.0,0,1,1.0,Participation matters,N/A,689096
+2338,Communication,5.0,0,1,1.0,Participation matters,N/A,689122
+2339,Communication,5.0,0,1,1.0,Participation matters,N/A,689401
+2340,Communication,5.0,0,1,1.0,Participation matters,N/A,695821
+2341,Communication,5.0,0,1,1.0,Participation matters,N/A,711779
+2342,Communication,5.0,0,1,1.0,Participation matters,N/A,716892
+2343,Communication,5.0,0,1,1.0,Participation matters,N/A,718187
+2344,Communication,5.0,0,1,1.0,Participation matters,N/A,731106
+2345,Communication,5.0,0,1,1.0,Participation matters,N/A,780629
+2346,Communication,5.0,0,1,1.0,Participation matters,N/A,824519
+2347,Communication,5.0,0,1,1.0,Participation matters,N/A,832779
+2348,Communication,5.0,0,1,1.0,Participation matters,N/A,900980
+2349,Communication,5.0,0,1,1.0,Participation matters,N/A,917596
+2350,Communication,5.0,0,1,1.0,Participation matters,N/A,925773
+2351,Communication,5.0,0,1,1.0,Participation matters,N/A,953440
+2352,Communication,5.0,0,1,1.0,Participation matters,N/A,959276
+2353,Communication,5.0,0,1,1.0,Participation matters,N/A,959367
+2354,Communication,5.0,0,1,1.0,Participation matters,N/A,964088
+2355,Communication,5.0,0,1,1.0,Participation matters,N/A,964095
+2356,Communication,5.0,0,1,1.0,Participation matters,N/A,983113
+2357,Communication,5.0,0,1,1.0,Participation matters,N/A,1014247
+2358,Communication,5.0,0,1,1.0,Participation matters,N/A,1030939
+2359,Communication,5.0,0,1,1.0,Participation matters,N/A,1052644
+2360,Communication,5.0,0,1,1.0,Participation matters,N/A,1068244
+2361,Communication,5.0,0,1,1.0,Participation matters,N/A,1108809
+2362,Communication,5.0,0,1,1.0,Participation matters,N/A,1109961
+2363,Communication,5.0,0,1,1.0,Participation matters,N/A,1117104
+2364,Communication,5.0,0,1,1.0,Participation matters,N/A,1122230
+2365,Communication,5.0,0,1,1.0,Participation matters,N/A,1144478
+2366,Communication,5.0,0,1,1.0,Participation matters,N/A,1146909
+2367,Communication,5.0,0,1,1.0,Participation matters,N/A,1160297
+2368,Communication,5.0,0,1,1.0,Participation matters,N/A,1172968
+2369,Communication,5.0,0,1,1.0,Participation matters,N/A,1182149
+2370,Communication,5.0,0,1,1.0,Participation matters,N/A,1182150
+2371,Communication,5.0,0,1,1.0,Participation matters,N/A,1182153
+2372,Communication,5.0,0,1,1.0,Participation matters,N/A,1215785
+2373,Communication,5.0,0,1,1.0,Participation matters,N/A,1218508
+2374,Communication,5.0,0,1,1.0,Participation matters,N/A,1224082
+2375,Communication,5.0,0,1,1.0,Participation matters,N/A,1244143
+2376,Communication,5.0,0,1,1.0,Participation matters,N/A,1250612
+2377,Communication,5.0,0,1,1.0,Participation matters,N/A,1255981
+2378,Communication,5.0,0,1,1.0,Participation matters,N/A,1261233
+2379,Communication,5.0,0,1,1.0,Participation matters,N/A,1284431
+2380,Communication,5.0,0,1,1.0,Participation matters,N/A,1301031
+2381,Communication,5.0,0,1,1.0,Participation matters,N/A,1303817
+2382,Communication,5.0,0,1,1.0,Participation matters,N/A,1312692
+2383,Communication,5.0,0,1,1.0,Participation matters,N/A,1320665
+2384,Communication,5.0,0,1,1.0,Participation matters,N/A,1321721
+2385,Communication,5.0,0,1,1.0,Participation matters,N/A,1323584
+2386,Communication,5.0,0,1,1.0,Participation matters,N/A,1334551
+2387,Communication,5.0,0,1,1.0,Participation matters,N/A,1358820
+2388,Communication,5.0,0,1,1.0,Participation matters,N/A,1370613
+2389,Communication,5.0,0,1,1.0,Participation matters,N/A,1372573
+2390,Communication,5.0,0,1,1.0,Participation matters,N/A,1374136
+2391,Communication,5.0,0,1,1.0,Participation matters,N/A,1377865
+2392,Communication,5.0,0,1,1.0,Participation matters,N/A,1378815
+2393,Communication,5.0,0,1,1.0,Participation matters,N/A,1381278
+2394,Communication,5.0,0,1,1.0,Participation matters,N/A,1384563
+2395,Communication,5.0,0,1,1.0,Participation matters,N/A,1389607
+2396,Communication,5.0,0,1,1.0,Participation matters,N/A,1390916
+2397,Communication,5.0,0,1,1.0,Participation matters,N/A,1393114
+2398,Communication,5.0,0,1,1.0,Participation matters,N/A,1429605
+2399,Communication,5.0,0,1,1.0,Participation matters,N/A,1429629
+2400,Communication,5.0,0,1,1.0,Participation matters,N/A,1429631
+2401,Communication,5.0,0,1,1.0,Participation matters,N/A,1429632
+2402,Communication,5.0,0,1,1.0,Participation matters,N/A,1429635
+2403,Communication,5.0,0,1,1.0,Participation matters,N/A,1429637
+2404,Communication,5.0,0,1,1.0,Participation matters,N/A,1435445
+2405,Communication,5.0,0,1,1.0,Participation matters,N/A,1438191
+2406,Communication,5.0,0,1,1.0,Participation matters,N/A,1450002
+2407,Communication,5.0,0,1,1.0,Participation matters,N/A,1450746
+2408,Communication,5.0,0,1,1.0,Participation matters,N/A,1457591
+2409,Communication,5.0,0,1,1.0,Participation matters,N/A,1462818
+2410,Communication,5.0,0,1,1.0,Participation matters,N/A,1463083
+2411,Communication,5.0,0,1,1.0,Participation matters,N/A,1464596
+2412,Communication,5.0,0,1,1.0,Participation matters,N/A,1466278
+2413,Communication,5.0,0,1,1.0,Participation matters,N/A,1482295
+2414,Communication,5.0,0,1,1.0,Participation matters,N/A,1485527
+2415,Communication,5.0,0,1,1.0,Participation matters,N/A,1494246
+2416,Communication,5.0,0,1,1.0,Participation matters,N/A,1494271
+2417,Communication,5.0,0,1,1.0,Participation matters,N/A,1532464
+2418,Communication,5.0,0,1,1.0,Participation matters,N/A,1544467
+2419,Communication,5.0,0,1,1.0,Participation matters,N/A,1567737
+2420,Communication,5.0,0,1,1.0,Participation matters,N/A,1567742
+2421,Communication,5.0,0,1,1.0,Participation matters,N/A,1567746
+2422,Communication,5.0,0,1,1.0,Participation matters,N/A,1567747
+2423,Communication,5.0,0,1,1.0,Participation matters,N/A,1567751
+2424,Communication,5.0,0,1,1.0,Participation matters,N/A,1584046
+2425,Communication,5.0,0,1,1.0,Participation matters,N/A,1584424
+2426,Communication,5.0,0,1,1.0,Participation matters,N/A,1607937
+2427,Communication,5.0,0,1,1.0,Participation matters,N/A,1611489
+2428,Communication,5.0,0,1,1.0,Participation matters,N/A,1612181
+2429,Communication,5.0,0,1,1.0,Participation matters,N/A,1612916
+2430,Communication,5.0,0,1,1.0,Participation matters,N/A,1623517
+2431,Communication,5.0,0,1,1.0,Participation matters,N/A,1639940
+2432,Communication,5.0,0,1,1.0,Participation matters,N/A,1639951
+2433,Communication,5.0,0,1,1.0,Participation matters,N/A,1668781
+2434,Communication,5.0,0,1,1.0,Participation matters,N/A,1675345
+2435,Communication,5.0,0,1,1.0,Participation matters,N/A,1679891
+2436,Communication,5.0,0,1,1.0,Participation matters,N/A,1699794
+2437,Communication,5.0,0,1,1.0,Participation matters,N/A,1702153
+2438,Communication,5.0,0,1,1.0,Participation matters,N/A,1708251
+2439,Communication,5.0,0,1,1.0,Participation matters,N/A,1720203
+2440,Communication,5.0,0,1,1.0,Participation matters,N/A,1727386
+2441,Communication,5.0,0,1,1.0,Participation matters,N/A,1732339
+2442,Communication,5.0,0,1,1.0,Participation matters,N/A,1746039
+2443,Communication,5.0,0,1,1.0,Participation matters,N/A,1756619
+2444,Communication,5.0,0,1,1.0,Participation matters,N/A,1786759
+2445,Communication,5.0,0,1,1.0,Participation matters,N/A,1796770
+2446,Communication,5.0,0,1,1.0,Participation matters,N/A,1801825
+2447,Communication,5.0,0,1,1.0,Participation matters,N/A,1805672
+2448,Communication,5.0,0,1,1.0,Participation matters,N/A,1811724
+2449,Communication,5.0,0,1,1.0,Participation matters,N/A,1830296
+2450,Communication,5.0,0,1,1.0,Participation matters,N/A,1833438
+2451,Communication,5.0,0,1,1.0,Participation matters,N/A,1840237
+2452,Communication,5.0,0,1,1.0,Participation matters,N/A,1841077
+2453,Communication,5.0,0,1,1.0,Participation matters,N/A,1844133
+2454,Communication,5.0,0,1,1.0,Participation matters,N/A,1857683
+2455,Communication,5.0,0,1,1.0,Participation matters,N/A,1860422
+2456,Communication,5.0,0,1,1.0,Participation matters,N/A,1871730
+2457,Communication,5.0,0,1,1.0,Participation matters,N/A,1873136
+2458,Communication,5.0,0,1,1.0,Participation matters,N/A,1873662
+2459,Communication,5.0,0,1,1.0,Participation matters,N/A,1880095
+2460,Communication,5.0,0,1,1.0,Participation matters,N/A,1885802
+2461,Communication,5.0,0,1,1.0,Participation matters,N/A,1894119
+2462,Communication,5.0,0,1,1.0,Participation matters,N/A,1900959
+2463,Communication,5.0,0,1,1.0,Participation matters,N/A,1915932
+2464,Communication,5.0,0,1,1.0,Participation matters,N/A,1915936
+2465,Communication,5.0,0,1,1.0,Participation matters,N/A,1917807
+2466,Communication,5.0,0,1,1.0,Participation matters,N/A,1918144
+2467,Communication,5.0,0,1,1.0,Participation matters,N/A,1922590
+2468,Communication,5.0,0,1,1.0,Participation matters,N/A,1923630
+2469,Communication,5.0,0,1,1.0,Participation matters,N/A,1923631
+2470,Communication,5.0,0,1,1.0,Participation matters,N/A,1927548
+2471,Communication,5.0,0,1,1.0,Participation matters,N/A,1929370
+2472,Communication,5.0,0,1,1.0,Participation matters,N/A,1944851
+2473,Communication,5.0,0,1,1.0,Participation matters,N/A,1949260
+2474,Communication,5.0,0,1,1.0,Participation matters,N/A,1963543
+2475,Communication,5.0,0,1,1.0,Participation matters,N/A,1965191
+2476,Communication,5.0,0,1,1.0,Participation matters,N/A,1968955
+2477,Communication,5.0,0,1,1.0,Participation matters,N/A,1968956
+2478,Communication,5.0,0,1,1.0,Participation matters,N/A,1970134
+2479,Communication,5.0,0,1,1.0,Participation matters,N/A,1973763
+2480,Communication,5.0,0,1,1.0,Participation matters,N/A,1976835
+2481,Communication,5.0,0,1,1.0,Participation matters,N/A,1977426
+2482,Communication,5.0,0,1,1.0,Participation matters,N/A,1978115
+2483,Communication,5.0,0,1,1.0,Participation matters,N/A,1978929
+2484,Communication,5.0,0,1,1.0,Participation matters,N/A,1981716
+2485,Communication,5.0,0,1,1.0,Participation matters,N/A,1981717
+2486,Communication,5.0,0,1,1.0,Participation matters,N/A,1982117
+2487,Communication,5.0,0,1,1.0,Participation matters,N/A,1988267
+2488,Communication,5.0,0,1,1.0,Participation matters,N/A,1991811
+2489,Communication,5.0,0,1,1.0,Participation matters,N/A,2002347
+2490,Communication,5.0,0,1,1.0,Participation matters,N/A,2003959
+2491,Communication,5.0,0,1,1.0,Participation matters,N/A,2007988
+2492,Communication,5.0,0,1,1.0,Participation matters,N/A,2011679
+2493,Communication,5.0,0,1,1.0,Participation matters,N/A,2012391
+2494,Communication,5.0,0,1,1.0,Participation matters,N/A,2016106
+2495,Communication,5.0,0,1,1.0,Participation matters,N/A,2018154
+2496,Communication,5.0,0,1,1.0,Participation matters,N/A,2023398
+2497,Communication,5.0,0,1,1.0,Participation matters,N/A,2025939
+2498,Communication,5.0,0,1,1.0,Participation matters,N/A,2028030
+2499,Communication,5.0,0,1,1.0,Participation matters,N/A,2032302
+2500,Communication,5.0,0,1,1.0,Participation matters,N/A,2035257
+2501,Communication,5.0,0,1,1.0,Participation matters,N/A,2035660
+2502,Communication,5.0,0,1,1.0,Participation matters,N/A,2036601
+2503,Communication,5.0,0,1,1.0,Participation matters,N/A,2055564
+2504,Communication,5.0,0,1,1.0,Participation matters,N/A,2060704
+2505,Communication,5.0,0,1,1.0,Participation matters,N/A,2061998
+2506,Communication,5.0,0,1,1.0,Participation matters,N/A,2062682
+2507,Communication,5.0,0,1,1.0,Participation matters,N/A,2071343
+2508,Communication,5.0,0,1,1.0,Participation matters,N/A,2079854
+2509,Communication,5.0,0,1,1.0,Participation matters,N/A,2080019
+2510,Communication,5.0,0,1,1.0,Participation matters,N/A,2083177
+2511,Communication,5.0,0,1,1.0,Participation matters,N/A,2083399
+2512,Communication,5.0,0,1,1.0,Participation matters,N/A,2085139
+2513,Communication,5.0,0,1,1.0,Participation matters,N/A,2087723
+2514,Communication,5.0,0,1,1.0,Participation matters,N/A,2089764
+2515,Communication,5.0,0,1,1.0,Participation matters,N/A,2089849
+2516,Communication,5.0,0,1,1.0,Participation matters,N/A,2091406
+2517,Communication,5.0,0,1,1.0,Participation matters,N/A,2095283
+2518,Communication,5.0,0,1,1.0,Participation matters,N/A,2095827
+2519,Communication,5.0,0,1,1.0,Participation matters,N/A,2096591
+2520,Communication,5.0,0,1,1.0,Participation matters,N/A,2098654
+2521,Communication,5.0,0,1,1.0,Participation matters,N/A,2100000
+2522,Communication,5.0,0,1,1.0,Participation matters,N/A,2100034
+2523,Communication,5.0,0,1,1.0,Participation matters,N/A,2104264
+2524,Communication,5.0,0,1,1.0,Participation matters,N/A,2104457
+2525,Communication,5.0,0,1,1.0,Participation matters,N/A,2106431
+2526,Communication,5.0,0,1,1.0,Participation matters,N/A,2107675
+2527,Communication,5.0,0,1,1.0,Participation matters,N/A,2123637
+2528,Communication,5.0,0,1,1.0,Participation matters,N/A,2127139
+2529,Communication,5.0,0,1,1.0,Participation matters,N/A,2128857
+2530,Communication,5.0,0,1,1.0,Participation matters,N/A,2132230
+2531,Communication,5.0,0,1,1.0,Participation matters,N/A,2133474
+2532,Communication,5.0,0,1,1.0,Participation matters,N/A,2134772
+2533,Communication,5.0,0,1,1.0,Participation matters,N/A,2134993
+2534,Communication,5.0,0,1,1.0,Participation matters,N/A,2137834
+2535,Communication,5.0,0,1,1.0,Participation matters,N/A,2146444
+2536,Communication,5.0,0,1,1.0,Participation matters,N/A,2146839
+2537,Communication,5.0,0,1,1.0,Participation matters,N/A,2147532
+2538,Communication,5.0,0,1,1.0,Participation matters,N/A,2150953
+2539,Communication,5.0,0,1,1.0,Participation matters,N/A,2150954
+2540,Communication,5.0,0,1,1.0,Participation matters,N/A,2154025
+2541,Communication,5.0,0,1,1.0,Participation matters,N/A,2156113
+2542,Communication,5.0,0,1,1.0,Participation matters,N/A,2156467
+2543,Communication,5.0,0,1,1.0,Participation matters,N/A,2156481
+2544,Communication,5.0,0,1,1.0,Participation matters,N/A,2156483
+2545,Communication,5.0,0,1,1.0,Participation matters,N/A,2165205
+2546,Communication,5.0,0,1,1.0,Participation matters,N/A,2168447
+2547,Communication,5.0,0,1,1.0,Participation matters,N/A,2170574
+2548,Communication,5.0,0,1,1.0,Participation matters,N/A,2172632
+2549,Communication,5.0,0,1,1.0,Participation matters,N/A,2186782
+2550,Communication,5.0,0,1,1.0,Participation matters,N/A,2188959
+2551,Communication,5.0,0,1,1.0,Participation matters,N/A,2191730
+2552,Communication,5.0,0,1,1.0,Participation matters,N/A,2195946
+2553,Communication,5.0,0,1,1.0,Participation matters,N/A,2202345
+2554,Communication,5.0,0,1,1.0,Participation matters,N/A,2203032
+2555,Communication,5.0,0,1,1.0,Participation matters,N/A,2203163
+2556,Communication,5.0,0,1,1.0,Participation matters,N/A,2205912
+2557,Communication,5.0,0,1,1.0,Participation matters,N/A,2209846
+2558,Communication,5.0,0,1,1.0,Participation matters,N/A,2210342
+2559,Communication,5.0,0,1,1.0,Participation matters,N/A,2212490
+2560,Communication,5.0,0,1,1.0,Participation matters,N/A,2216154
+2561,Communication,5.0,0,1,1.0,Participation matters,N/A,2218388
+2562,Communication,5.0,0,1,1.0,Participation matters,N/A,2218874
+2563,Communication,5.0,0,1,1.0,Participation matters,N/A,2219045
+2564,Communication,5.0,0,1,1.0,Participation matters,N/A,2220543
+2565,Communication,5.0,0,1,1.0,Participation matters,N/A,2220635
+2566,Communication,5.0,0,1,1.0,Participation matters,N/A,2222600
+2567,Communication,5.0,0,1,1.0,Participation matters,N/A,2223357
+2568,Communication,5.0,0,1,1.0,Participation matters,N/A,2224188
+2569,Communication,5.0,0,1,1.0,Participation matters,N/A,2224203
+2570,Communication,5.0,0,1,1.0,Participation matters,N/A,2224656
+2571,Communication,5.0,0,1,1.0,Participation matters,N/A,2225559
+2572,Communication,5.0,0,1,1.0,Participation matters,N/A,2225957
+2573,Communication,5.0,0,1,1.0,Participation matters,N/A,2229315
+2574,Communication,5.0,0,1,1.0,Participation matters,N/A,2230348
+2575,Communication,5.0,0,1,1.0,Participation matters,N/A,2232621
+2576,Communication,5.0,0,1,1.0,Participation matters,N/A,2234315
+2577,Communication,5.0,0,1,1.0,Participation matters,N/A,2226603
+2578,Communication,5.0,0,1,1.0,Participation matters,N/A,2234642
+2579,Communication,5.0,0,1,1.0,Participation matters,N/A,2236331
+2580,Communication,5.0,0,1,1.0,Participation matters,N/A,2237193
+2581,Communication,5.0,0,1,1.0,Participation matters,N/A,2237403
+2582,Communication,5.0,0,1,1.0,Participation matters,N/A,2237404
+2583,Communication,5.0,0,1,1.0,Participation matters,N/A,2237826
